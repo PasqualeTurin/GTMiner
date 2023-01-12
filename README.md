@@ -1,8 +1,6 @@
 # GTMiner
 ### Code for 'Mining Geospatial Relationships from Text' paper (SIGMOD 2023)
-GTMiner is a link prediction framework to discover geospatial relationships between entities. It relies on advanced text-analysis techniques and refinement procedures, in order to identify such relationships in absence of exact geometrical shapes for the involved entities.
-
-<img src="imgs/database.jpg" alt="Example of geospatial database" width="62%"/><img src="imgs/KG.jpg" alt="Example of geospatial Knowledge Graph" width="34%"/>
+GTMiner is a link prediction framework to discover geospatial relationships between entities and construct a Knowledge Graph (KG). It relies on advanced text-analysis techniques and refinement procedures, in order to identify such relationships in absence of exact geometrical shapes for the involved entities.
 
 ### Requirements
 
@@ -15,6 +13,11 @@ Install required packages
 ```
 pip install -r requirements.txt
 ```
+### Geospatial Knowledge Graph
+
+The following image (left) depicts a typical geospatial database. On the right, a geospatial KG links the entities from the database with fine-grained relationships.
+
+<img src="imgs/database.jpg" alt="Example of geospatial database" width="62%"/><img src="imgs/KG.jpg" alt="Example of geospatial Knowledge Graph" width="34%"/>
 
 ### Data
 #### Knowledge Graph Completion data files are stored in /data/KGC
