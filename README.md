@@ -10,7 +10,10 @@ The following image (left) depicts a typical geospatial database. On the right, 
 
 ### Framework
 
-The image below shows the proposed framework. GTMiner is composed of a **Candidate Selection** step, to reduce the combinatorial explosion caused by the total number of possible triples $(h, r, t)$ to be discovered; A **Link Prediction** model to identify if a geospatial relationship exist between two entities (and which); and a **Refinement** module to increase the coverage and correctness of a geospatial KG.
+The image below shows the proposed framework. GTMiner is composed of:
+* A **Candidate Selection** step, to reduce the combinatorial explosion caused by the total number of possible triples $(h, r, t)$ to be discovered; 
+* A **Link Prediction** model to identify if a geospatial relationship exist between two entities (and which);
+* A **Refinement** module to increase the coverage and correctness of a geospatial KG.
 
 <img src="imgs/framework.jpg" alt="Framework" width="90%"/>
 
