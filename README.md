@@ -1,5 +1,5 @@
 # GTMiner
-SIGMOD 2023 Submission
+### Code for 'Mining Geospatial Relationships from Text' paper (SIGMOD 2023)
 
 
 ### Requirements
