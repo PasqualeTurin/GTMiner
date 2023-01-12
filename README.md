@@ -10,7 +10,7 @@ The following image (left) depicts a typical geospatial database. On the right, 
 
 ### Framework
 
-The image below shows the proposed framework:
+The image below shows the proposed framework. GTMiner is composed of a Candidate Selection step, to reduce the combinatorial explosion caused by the total number of possible triples $(h, r, t)$ to be discovered.
 
 <img src="imgs/framework.jpg" alt="Framework" width="90%"/>
 
