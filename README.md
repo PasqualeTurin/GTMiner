@@ -8,11 +8,11 @@ The following image (left) depicts a typical geospatial database. On the right, 
 
 <img src="imgs/database.jpg" alt="Example of geospatial database" width="62%"/><img src="imgs/KG.jpg" alt="Example of geospatial Knowledge Graph" width="34%"/>
 
-### Challenges
+### Framework
 
-The image below shows an example of the challenges presented by the task introduced above. 
+The image below shows the proposed framework:
 
-<img src="imgs/challenges.jpg" alt="Challenges example" width="40%"/>
+<img src="imgs/framework.jpg" alt="Framework" width="90%"/>
 
 ### Requirements
 
