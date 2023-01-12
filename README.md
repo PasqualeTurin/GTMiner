@@ -1,6 +1,6 @@
 # GTMiner
 ### Code for 'Mining Geospatial Relationships from Text' paper (SIGMOD 2023)
-
+GTMiner is a link prediction framework to discover geospatial relationships between entities. It relies on advanced text-analysis techniques and refinement procedures, in order to identify such relationships in absence of exact geometrical shapes for the involved entities.
 
 ### Requirements
 
