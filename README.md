@@ -2,7 +2,7 @@
 ### Code for 'Mining Geospatial Relationships from Text' paper (SIGMOD 2023)
 GTMiner is a link prediction framework to discover geospatial relationships between entities. It relies on advanced text-analysis techniques and refinement procedures, in order to identify such relationships in absence of exact geometrical shapes for the involved entities.
 
-<img src="imgs/database.jpg" alt="Example of geospatial database" width="65%"/><img src="imgs/KG.jpg" alt="Example of geospatial Knowledge Graph" width="30%"/>
+<img src="imgs/database.jpg" alt="Example of geospatial database" width="65%"/><img src="imgs/KG.jpg" alt="Example of geospatial Knowledge Graph" width="34%"/>
 
 ### Requirements
 
