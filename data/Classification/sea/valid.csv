@@ -1,0 +1,599 @@
+,e_name,e_category,e_type
+0,Maharaja Cuisine of India,restaurant,0
+1,Swan Healthy Gourmet,beverages,0
+2,Ollie Quinn,optician,0
+3,Thornton Place Box Office,ticket,0
+4,Queen Anne Nail Spa,beauty,0
+5,U.S. Bank,bank,0
+6,Second Avenue Additions,artwork,0
+7,MoPOP: Museum of Pop Culture,museum,1
+8,Marcelo Alonso Brazilian Jiu-Jitsu,leisure,0
+9,I Love Teriyaki,fast_food,0
+10,Food Mart,convenience,0
+11,N 39th St & Dayton Ave N,bus_stop,0
+12,S Cloverdale St & 8th Ave S,bus_stop,0
+13,East Montlake Pl E & E Roanoke St,bus_stop,0
+14,Whole Foods Market,supermarket,0
+15,KeyBank,bank,0
+16,The Bikery,bicycle,0
+17,Bank of America,atm,0
+18,Yalla,restaurant,0
+19,10th Ave E & E Howe St,bus_stop,0
+20,Harvard Ave E & Eastlake Ave E,bus_stop,0
+21,Happy Times Bistro,restaurant,0
+22,Plaza 600 (Bld. 6),commercial,1
+23,Wallingford Eye Center,doctors,0
+24,Hong Kong Apartments,,0
+25,Subway,fast_food,0
+26,Campbell Building (Building 5),building,1
+27,Seattle Plant Daddy,plants,0
+28,Aslan Brewing Seattle,Breweries,0
+29,Heath Printers,building,1
+30,Local Tide,Seafood; Sandwiches; Salad,0
+31,The Central Saloon,pub,0
+32,Mann Building,building,1
+33,Saint Gebriel Ethiopian Church,place_of_worship,0
+34,Urban Luxe Cafe,cafe,0
+35,Admiral Benbow,bar,0
+36,John Fluevog Shoes,shoes,0
+37,Phnom Penh Market,grocery,0
+38,iDope,electronics,0
+39,Rusted Vase Floral Co.,florist,0
+40,Pizzeria La Rocca,restaurant,0
+41,E Madison St & 22nd Ave,bus_stop,0
+42,Salon Joseph,hairdresser,0
+43,Chase,atm,0
+44,SW Genesee St & 53rd Ave SW,bus_stop,0
+45,North Seattle Fives Preschool,kindergarten,0
+46,Lark,restaurant,0
+47,ZoomCare,clinic,0
+48,Northgate Pointe Building (Section C),commercial,1
+49,Spotted Owl Berger Variety Shop,tobacco,0
+50,NW 65th St & Division Ave NW,bus_stop,0
+51,Jars Juice,beverages,0
+52,24 Hour Fitness,leisure,0
+53,Beth's Cafe,restaurant,0
+54,Arrivé - Blk. 5,building,1
+55,Byrek + Baguette,cafe,0
+56,Terry M. Wong,dentist,0
+57,Margaret O'Leary,clothes,0
+58,Madison St & Summit Ave,bus_stop,0
+59,Banner Bank,atm,0
+60,Solution Chiropractic,healthcare,0
+61,Cornuto,restaurant,0
+62,Untitled,artwork,0
+63,Palisade,restaurant,0
+64,Periscope Tree,artwork,0
+65,Star Fusion & Bar,restaurant,0
+66,My Favorite Deli!,deli,0
+67,Pleasant Beach Donuts,fast_food,0
+68,E John St & 15th Ave E,bus_stop,0
+69,ZoomCare,clinic,0
+70,76,fuel,0
+71,Shine in the Market,hairdresser,0
+72,Briterworks Inc.,manufacturer,0
+73,Aveda,cosmetics,0
+74,24th Ave E & E Calhoun St,bus_stop,0
+75,Il Bistro,restaurant,0
+76,1201 Western Building (Sec. B),building,1
+77,49th Ave SW & SW Hudson St,bus_stop,0
+78,Cicchetti,restaurant,0
+79,Ace Hotel,building,1
+80,Starbucks,Coffee & Tea,0
+81,Love + Flour,cafe,0
+82,B~side Foods,restaurant,0
+83,Marine Service & Supply,hardware,0
+84,N 85th St & Stone Ave N,bus_stop,0
+85,Emerald City Massage,massage,0
+86,Financial Center - Block 3,commercial,1
+87,SODO Busway & S Spokane St,bus_stop,0
+88,UPS,post_box,0
+89,Tacos Chukis,Tacos,0
+90,Cool Guys,fast_food,0
+91,5th Ave & Cherry St,bus_stop,0
+92,Lantz Medical Massage,massage,0
+93,The Reef Cannabis,convenience,0
+94,King Street Southern Baptist Church,place_of_worship,0
+95,OSKA,clothes,0
+96,United Confederate Veterans Memorial,historic,0
+97,Trace North Condos,building,1
+98,Great State Burger - Downtown,restaurant,0
+99,NW Sports Rehab,healthcare,0
+100,Pedego Seattle,bicycle,0
+101,Jackalope Tex-Mex & Cantina,restaurant,0
+102,Lincoln Park and Colman Pool Map,information,0
+103,KeyBank,bank,0
+104,Sound Associates Hearing Aid Center,hearing_aids,0
+105,Fremont Space,commercial,1
+106,J & J Collision,car_repair,0
+107,The Northcoast Building - Court in the Square (Section F),building,1
+108,Mann Building (Section A),building,1
+109,Biscuit Bitch - Belltown,cafe,0
+110,Seneca St & Boren Ave,bus_stop,0
+111,Umpqua Bank,bank,0
+112,Jackson Square Condos (Section F),building,1
+113,Taco Del Mar,fast_food,0
+114,TD Ameritrade,office,0
+115,Quality Auto Glass/Pacific Auto Detail,car_wash,0
+116,Father and Son,artwork,0
+117,Thai Star Restaurant,restaurant,0
+118,Zipcar,car_sharing,0
+119,Vida Abundante,place_of_worship,0
+120,19th Ave E & E Prospect St,bus_stop,0
+121,"Robert A Christophel, CPA",office,0
+122,Ezell's Famous Chicken,fast_food,0
+123,Hotel Andra,hotel,1
+124,Chihuly Garden and Glass (Building 6),museum,1
+125,Columbia Bank,bank,0
+126,Yummy Teriyaki,fast_food,0
+127,Space Needle,attraction,1
+128,Hotel Monaco Seattle,hotel,1
+129,Amazon.com Apollo,commercial,1
+130,Hotel Monaco Seattle (West),hotel,1
+131,C Art Gallery,gallery,0
+132,Benaroya Hall,theatre,1
+133,Wings over Washington,attraction,0
+134,Wells Fargo,bank,0
+135,N 130th St & Meridian Ave N,bus_stop,0
+136,Wells Fargo,atm,0
+137,Iglesia de Restauración,place_of_worship,0
+138,Speed-E-mart,convenience,0
+139,Verde & Co.,florist,0
+140,Medical Dental Building,building,1
+141,Storyville Coffee,cafe,0
+142,Auto Plus,car_parts,0
+143,Wallingford Ave N & N 37th St,bus_stop,0
+144,Seatown Vet,veterinary,0
+145,The Flower Lady,florist,0
+146,University of Washington Medical Center - Montlake,hospital,1
+147,Jackson Square Condos,building,1
+148,Herb & Bitter Public House,restaurant,0
+149,Chase,bank,0
+150,Thaprachan,restaurant,0
+151,Arboretum Court,mall,1
+152,Vermillion,gallery,0
+153,Beacon Ave S & S Orcas St,bus_stop,0
+154,Playground Artwork,artwork,0
+155,The Lodge Sports Grille,restaurant,0
+156,E Pine St & 15th Ave,bus_stop,0
+157,Flowers,pub,0
+158,Cutty Sark Nautical Antiques,antiques,0
+159,Untitled,artwork,0
+160,Pierre Chevrolet,car_repair,0
+161,A Pizza Mart - Downtown,Pizza,0
+162,Persephone Unbound,artwork,0
+163,Marcella's La Boutique,clothes,0
+164,Veggie Grill,fast_food,0
+165,WWII Memorial – Interrupted Journey,historic,0
+166,Seattle City Fire Station Number 35,fire_station,0
+167,Tavona,building,1
+168,Piroshki On Madison,Bakeries; Russian; Ukrainian,0
+169,The Commons at Ballard,parking,0
+170,One Bite Cafe,cafe,0
+171,H&R Block,office,0
+172,Little Free Library,public_bookcase,0
+173,Latona Ave NE & NE 45th St,bus_stop,0
+174,W Mcgraw St & 3rd Ave W,bus_stop,0
+175,Public Sink,public_bath,0
+176,Delridge Way SW & SW Hudson St,bus_stop,0
+177,Spa Phoebe,beauty,0
+178,King's Deli & Grocery,convenience,0
+179,705 Union Station - Block 3,building,1
+180,Amazon.com Apollo (Sec. F),commercial,1
+181,Breezy Town Pizza,restaurant,0
+182,Goldfinch Tavern,Seafood; American (New); Cocktail Bars,0
+183,Martin L King Jr Way S & S Myrtle St,bus_stop,0
+184,Untitled,artwork,0
+185,W Tilden St & 29th Ave W,bus_stop,0
+186,9th Ave & Cherry St,bus_stop,0
+187,E Madison St & 13th Ave,bus_stop,0
+188,Charles Cowen Park Gate,historic,0
+189,Zipcar,car_sharing,0
+190,Trace North Condos - Block 2,building,1
+191,MOD Pizza,fast_food,0
+192,Chihuly Garden and Glass,museum,1
+193,SODO Busway & S Royal Brougham Way,bus_stop,0
+194,Little Free Library,public_bookcase,0
+195,Tavona (North),building,1
+196,East Trading Co.,bar,0
+197,The Grinning Yogi,leisure,0
+198,Meridian Parking,parking_entrance,0
+199,Madison Cuts,hairdresser,0
+200,Ace Hotel (West),building,1
+201,Fauntleroy Way SW & SW Dawson St,bus_stop,0
+202,University District Food Bank,social_facility,0
+203,Campbell Building,building,1
+204,Blue Water Taco Grill,fast_food,0
+205,Heartland Cafe,cafe,0
+206,Space Needle,attraction,1
+207,Chinook's at Salmon Bay,restaurant,0
+208,Monterey Lofts,building,1
+209,Dino's Tomato Pie,restaurant,0
+210,El Camión Laurelhurst Truck,restaurant,0
+211,Seattle Mattress Company,furniture,0
+212,Northwest Childrens Academy,school,0
+213,Fairmont Olympic Hotel - Blk. 2,hotel,1
+214,Sheraton Seattle (Bld. 7),hotel,1
+215,Yesler Building,building,1
+216,Associates in Behavioral Health,doctors,0
+217,9th Ave & Spring St,bus_stop,0
+218,Two Smiling Feet,beauty,0
+219,MoPOP: Museum of Pop Culture (Sec. B),museum,1
+220,GameStop,video_games,0
+221,Concessions,fast_food,0
+222,Polished Boutique Spa,beauty,0
+223,Showbox SODO,nightclub,0
+224,Yesler Building (Bld. 8),building,1
+225,Starbucks,cafe,0
+226,23rd Ave S & S Dearborn St,bus_stop,0
+227,BluWater Bistro,restaurant,0
+228,East Green Lake Dr N & Latona Ave NE,bus_stop,0
+229,Studio 4 Brow,beauty,0
+230,Evergreens,fast_food,0
+231,BECU,atm,0
+232,Flora Bakehouse,cafe,0
+233,Delridge Deli Mart,convenience,0
+234,32nd Ave NW & NW Market St,bus_stop,0
+235,Bank of America,atm,0
+236,Swedish Medical Center Ballard Campus,hospital,1
+237,Aurora Ave N & N 95th St,bus_stop,0
+238,Juno Therapeutics,office,0
+239,Regatta Bar & Grille,bar,0
+240,Schoenfeld Furniture Store Building,building,1
+241,Fitness 19,leisure,0
+242,Ballard Home Comforts,gift,0
+243,Albacha Restaurant,restaurant,0
+244,IBM Building,building,1
+245,Starbucks,cafe,0
+246,Seattle Fire Department,fire_station,0
+247,Bartell Drugs,pharmacy,0
+248,Cherry Consign,consignment,0
+249,World Market,interior_decoration,0
+250,Quaternery Research Center,office,0
+251,Central Building,building,1
+252,Earl's Cuts and Styles,hairdresser,0
+253,Curious Kidstuff,toys,0
+254,Madison St & Summit Ave,bus_stop,0
+255,Mud Bay,pet,0
+256,Amazon.com Doppler (Building 5),office,1
+257,Washington State Acupuncture & Chinese Medicine Center - Therapeutic Chinese Massage & Injury Rehab,doctors,0
+258,Egan's Ballard Jam House,nightclub,0
+259,Baraka Gemstones and Jewelry,jewelry,0
+260,eMode,office,0
+261,QFC Parking Lot,parking,0
+262,University Bridge & NE 40th St,bus_stop,0
+263,Quest Factor,leisure,0
+264,Fairmont Olympic Hotel,hotel,1
+265,Goodwill,charity,0
+266,Zaki Mediterranean Grill,restaurant,0
+267,Emerald City Aikido,leisure,0
+268,Portage Bay Building (East),office,1
+269,Ravenna Ave NE & Ravenna Pl NE,bus_stop,0
+270,ARA Collision - North Seattle,car_repair,0
+271,5th Ave NE & NE 112th St,bus_stop,0
+272,Lake City Watch Clock & Jewelry Repair,watch_repair,0
+273,Deli Shez Cafe,cafe,0
+274,Jupiter Bar,bar,0
+275,Latona Ave NE & NE 65th St,bus_stop,0
+276,E John St & 12th Ave E,bus_stop,0
+277,Cinnamon Works,bakery,0
+278,Montlake Blvd NE & NE 45th St,bus_stop,0
+279,East Union New Post Office,post_office,0
+280,3rd Ave & Madison St,bus_stop,0
+281,IBM Building (Sec. D),building,1
+282,Walla Walla Farms,cafe,0
+283,Sponge School,school,0
+284,Cafe Con Todo,cafe,0
+285,Fremont Building - Block 4,building,1
+286,Admiral Nails,hairdresser,0
+287,Supercuts,hairdresser,0
+288,Monterey Lofts (Building 7),building,1
+289,Wildlife Theater,theatre,0
+290,Bill & Melinda Gates Foundation,office,1
+291,Neva's Barber Shop,hairdresser,0
+292,Husky Grind,cafe,0
+293,Boiling Point,restaurant,0
+294,ActivSpace,office,0
+295,Rain Shadow Meats,butcher,0
+296,Top Pot Doughnuts,cafe,0
+297,Central Building (Bld. 1),building,1
+298,Blue Sky Cleaners,dry_cleaning,0
+299,3107 Dentistry,dentist,0
+300,I-5 & NE 45th St,bus_stop,0
+301,Alterations Fit 4 U,tailor,0
+302,Cultivate,restaurant,0
+303,Tran’s Accounting & Tax Service,office,0
+304,Northgate Pointe Building,commercial,1
+305,Tram's Salon,beauty,0
+306,Red Jet Films,office,0
+307,Bad Bishop,pub,0
+308,Teriyaki Plus,fast_food,0
+309,Seattle Drum School,music_school,0
+310,Gene Juarez,hairdresser,0
+311,Maia Midwifery & Fertility,clinic,0
+312,The Blarney Stone Pub,pub,0
+313,15th Ave NE & NE 75th St,bus_stop,0
+314,Regent Bakery and Café,restaurant,0
+315,Hair on Holman,hairdresser,0
+316,Union Trust Building,building,1
+317,Food Mart,convenience,0
+318,Kanpai Sushi & Wine Bar,restaurant,0
+319,The 515,American (Traditional); Breakfast & Brunch,0
+320,Kasala,furniture,0
+321,Kiss Cafe,restaurant,0
+322,Walentas Upholstery,upholstery,0
+323,Red Sun Moto,motorcycle,0
+324,Enviro-Tech Diving,office,0
+325,Almanqal Mediterranean Grill,restaurant,0
+326,Broadway Nails,beauty,0
+327,Montlake Blvd NE & NE 45th St,bus_stop,0
+328,The Baltic Room,bar,0
+329,Fisk Electric & Technologies,office,0
+330,The Palladian Hotel (West),hotel,1
+331,Magnolia Insurance,office,0
+332,Ernest Jonson & Co,office,0
+333,Limoncello Belltown,bakery,0
+334,Washington State Convention Center,attraction,1
+335,Vintage Timepieces,watches,0
+336,University of Washington Medical Center - Montlake - Blk. 5,hospital,1
+337,Dial-a-Ride #38,bus_stop,0
+338,E Jefferson St & Broadway,bus_stop,0
+339,Add-a-Ball,bar,0
+340,Wells Fargo,bank,0
+341,Palace Ballroom,restaurant,0
+342,Car Toys,car_parts,0
+343,Alvord Broadleaf Theater,theatre,0
+344,Kitchen Basics,kitchen,0
+345,Mel's Market,fast_food,0
+346,Team Survivor,office,0
+347,Mercurial Apartments,apartments,0
+348,Byrd Barr Place - Blk. 4,building,1
+349,Milk Drunk,restaurant,0
+350,Learners Building (South),building,1
+351,Marriott Renaissance Hotel,hotel,1
+352,Massage Reimagined,massage,0
+353,Leone Vaughn Davis Orthodonics,dentist,0
+354,House of Vartan,beauty,0
+355,44th Ave SW & Marine View Dr SW,bus_stop,0
+356,Under the Needle,tattoo,0
+357,ZoomCare,clinic,0
+358,Starbucks,cafe,0
+359,Link Dentistry,dentist,0
+360,Sail Sand Point,boat_rental,0
+361,MarQueen Hotel,hotel,1
+362,Stereotype,artwork,0
+363,Village Sushi,restaurant,0
+364,35th Ave SW & SW Holly St,bus_stop,0
+365,Rudy's Barbershop,hairdresser,0
+366,Bonobos,clothes,0
+367,Tenoch Mexican Grill,restaurant,0
+368,Ada's Technical Books and Cafe,cafe,0
+369,Auto Service,car_repair,0
+370,Italian Family Pizza,restaurant,0
+371,Big Mario's Pizza,restaurant,0
+372,Benaroya Hall - Block 4,theatre,1
+373,UW Bike Locker Location 16,bicycle_parking,0
+374,The Lookout,pub,0
+375,Communion,restaurant,0
+376,Staging Techniques,photo,0
+377,B&N Fisheries Company,office,0
+378,Little Free Peep Show,give_box,0
+379,Sleight of Hand Cellars,wine,0
+380,The Missing Piece,cafe,0
+381,Ballard Time Shop,clocks,0
+382,Community Jewels: Diamonds are Forever,artwork,0
+383,5th Ave NE & NE Maple Leaf Pl,bus_stop,0
+384,6th Ave W & W Crockett St,bus_stop,0
+385,Sunnyside Avenue North Boat Ramp,leisure,0
+386,Peter H. Yi,dentist,0
+387,Zebra Print and Copy,copyshop,0
+388,Beach Dr SW & SW Beach Drive Ter,bus_stop,0
+389,Lil Woody's,restaurant,0
+390,Fremont Space (Sec. C),commercial,1
+391,Moore Coffee,cafe,0
+392,NE Northgate Way & 15th Ave NE,bus_stop,0
+393,The Red Onion,pub,0
+394,Slab,restaurant,0
+395,West Seattle Bowl,leisure,1
+396,24th Ave E & Boyer Ave E,bus_stop,0
+397,Modern Design Sofas,furniture,0
+398,Blazing Bagels,fast_food,0
+399,Aurora Ave N & N 91st St,bus_stop,0
+400,Michou,Delis; Sandwiches,0
+401,Madison Park Jewelers,jewelry,0
+402,Mark Iffrig,office,0
+403,Cookie's Country Chicken,restaurant,0
+404,A Dog's Dream,pet,0
+405,Meridian Ave N & N 130th St,bus_stop,0
+406,Greenwood Ave N & N 97th St,bus_stop,0
+407,Blue Star Memorial Highway,historic,0
+408,Boylston Ave E & E Roanoke St,bus_stop,0
+409,Wild Rye,cafe,0
+410,Learners Building,building,1
+411,Tower Deli,fast_food,0
+412,Cafe Hitchcock Express,Cafes; Coffee & Tea,0
+413,Soprano Antico,restaurant,0
+414,Spruce Apothecary,beauty,0
+415,Roosevelt Way NE & NE 108th St,bus_stop,0
+416,Bar Melusine,bar,0
+417,Amli Mark 24 Retail Parking Lot,parking,0
+418,W Blaine St & 27th Ave W,bus_stop,0
+419,Seattle Team Shop,clothes,0
+420,Harborview Medical Center,hospital,1
+421,Beach Dr SW & SW Beach Drive Ter,bus_stop,0
+422,Harborview Medical Center - Block 4,hospital,1
+423,Union Bay Natural Area,information,0
+424,Mr West Cafe Bar,cafe,0
+425,Cat City Boarding,animal_boarding,0
+426,Future Vapor,tobacco,0
+427,Bread of Life Mission,social_facility,0
+428,TM Dessert Works,confectionery,0
+429,Dan N. Fiorito III,office,0
+430,Union SLU Lower Parking Garage,parking_entrance,0
+431,Big Top Curiosity Shop,gift,0
+432,Emerald Grill,restaurant,0
+433,Taco Del Mar,fast_food,0
+434,Century Ballroom,leisure,0
+435,Financial Center,commercial,1
+436,Page Ahead Children's Literacy Program,office,0
+437,Cappy's Boxing Gym,leisure,0
+438,24th Ave E & Boyer Ave E,bus_stop,0
+439,Soup Daddy Soups,restaurant,0
+440,Wild Gravity,office,0
+441,Little Free Library,public_bookcase,0
+442,FedEx Office,copyshop,0
+443,3rd Ave NW & NW 105th St,bus_stop,0
+444,1201 Western Building,building,1
+445,Be's Restaurant,restaurant,0
+446,Plaza 600,commercial,1
+447,MarQueen Hotel - Block 2,hotel,1
+448,Mathnasium,prep_school,0
+449,"Dr. Sunny Kim, DDS",dentist,0
+450,Hilltop Ale House,pub,0
+451,NE Ravenna Blvd & Roosevelt Way NE,bus_stop,0
+452,Flame Catering Cafe,cafe,0
+453,Bartell Drugs,pharmacy,0
+454,Bartell Drugs,pharmacy,0
+455,Superior Transmission,car_repair,0
+456,Royal Nails,beauty,0
+457,Pike & Western Wine Shop,deli,0
+458,Highline Medical Center,doctors,0
+459,State Farm,office,0
+460,Union Trust Building (Building 8),building,1
+461,Welcome to the the Whale Trail,information,0
+462,Chipotle,fast_food,0
+463,Chelan Cafe,restaurant,0
+464,Lancer & Lace,hairdresser,0
+465,Sand Dragon,artwork,0
+466,Spring St & 4th Ave,bus_stop,0
+467,Graphic Design Sign & Awning,office,0
+468,The Cookie Counter,cafe,0
+469,Washington State Convention Center (Section A),attraction,1
+470,Bruce and Brandon Lee Graves,historic,0
+471,Swedish Medical Center Ballard Campus (Building 6),hospital,1
+472,Downtown Seattle Medical Center,clinic,0
+473,Heath Printers - Block 3,building,1
+474,Schooner Brewing,pub,0
+475,Evergreen Massage,massage,0
+476,West Seattle Bowl,leisure,1
+477,S Mcclellan St & 31st Ave S,bus_stop,0
+478,Bellevue Ave E & Bellevue Pl E,bus_stop,0
+479,Pacific Galleries Auction House and Antique Mall,antiques,0
+480,HomeStreet Bank,bank,0
+481,T-Mobile,mobile_phone,0
+482,Shy Giant Frozen Yogurt,ice_cream,0
+483,Hotel Andra (Bld. 6),hotel,1
+484,Global Travel,travel_agency,0
+485,Globe Optical,optician,0
+486,Subway,fast_food,0
+487,Triple R Brewing Alley Tavern,pub,0
+488,Great Northwest Soup Co,restaurant,0
+489,The Golden Olive,restaurant,0
+490,Cortina Café,cafe,0
+491,West Seattle Animal Hospital,veterinary,0
+492,Collins Building,commercial,1
+493,Schoenfeld Furniture Store Building,building,1
+494,Electrical Engineering,office,0
+495,Amazon.com Doppler,office,1
+496,Little Free Library,public_bookcase,0
+497,American Dance Institute,leisure,0
+498,Assistance League of Seattle,social_facility,0
+499,The Northcoast Building - Court in the Square,building,1
+500,SW Morgan St & 35th Ave SW,bus_stop,0
+501,Rapport,restaurant,0
+502,Siren Tavern,bar,0
+503,Martin L King Jr Way & E Marion St,bus_stop,0
+504,S & L Cafe,cafe,0
+505,The Style Witch Hair Studio,hairdresser,0
+506,Giraffe & Lion Riding Alligator Bike,artwork,0
+507,400 Fairview,building,1
+508,Little Free Sports Library,public_bookcase,0
+509,Garden Path,artwork,0
+510,The Cosmopolitan,building,1
+511,Willmott’s Ghost,restaurant,0
+512,Center of the Universe sign,artwork,0
+513,Specialty Eyecare Group,optician,0
+514,Arboretum Court (Bld. 3),mall,1
+515,Kau Kau Barbecue,restaurant,0
+516,Petra Mediterranean Bistro,fast_food,0
+517,Signal Services,office,0
+518,West Viewmont Way W & W Dravus St,bus_stop,0
+519,Mac Pherson Leather,leather,0
+520,Crew Cuts Hair Salon,hairdresser,0
+521,Arrow Beauty,beauty,0
+522,T-Mobile,mobile_phone,0
+523,Terminal Sales Building,building,1
+524,Kucumber,beauty,0
+525,Byrd Barr Place,building,1
+526,James St & 5th Ave,bus_stop,0
+527,Downtown Emergency Service Center,social_facility,0
+528,Cheese Meats Bread,fast_food,0
+529,Ivar Feeding The Gulls,artwork,0
+530,Araya's Place,restaurant,0
+531,Seattle Changing Room,leisure,0
+532,James J. Hill Bust,artwork,0
+533,NEKO Cat Cafe,cafe,0
+534,Glazer's Camera Rentals,photo,0
+535,Pharmaca,pharmacy,0
+536,The Palladian Hotel,hotel,1
+537,Healing Yoga Center,leisure,0
+538,Devine Chiropractic & Rehab Center,healthcare,0
+539,Vino Verité,wine,0
+540,Melissa Kiepke Music,office,0
+541,Couture Nails & Spa,beauty,0
+542,Grog,bar,0
+543,the Waltz,artwork,0
+544,State Farm,office,0
+545,Girls Rock Math,school,0
+546,Jimmy John's,Sandwiches; Fast Food; Delis,0
+547,R & M,convenience,0
+548,Perihelion Brewery,pub,0
+549,Streamline Tavern,pub,0
+550,Starbucks,cafe,0
+551,Sheraton Seattle,hotel,1
+552,Reflex Massage,massage,0
+553,Salon Q.E.,hairdresser,0
+554,Leary Ave NW & NW Ione Pl,bus_stop,0
+555,Twilight Exit,bar,0
+556,Terminal Sales Building,building,1
+557,Connect Lounge,bar,0
+558,Untitled,artwork,0
+559,705 Union Station,building,1
+560,Marriott Renaissance Hotel (Section F),hotel,1
+561,Untitled,artwork,0
+562,Volta,charging_station,0
+563,Foreign National,bar,0
+564,Rick's Cafe,ice_cream,0
+565,Lake Union Family Dental,office,0
+566,Portage Bay Building,office,1
+567,Great Dog Daycare,animal_boarding,0
+568,Slate Coffee Roasters,Coffee & Tea; Coffee Roasteries,0
+569,Rite Aid,pharmacy,0
+570,CorePower Yoga,leisure,0
+571,State Farm,office,0
+572,1st Ave N & Mercer St,bus_stop,0
+573,FleetPride,office,0
+574,Vain,hairdresser,0
+575,Mabel,cafe,0
+576,Seattle Gymnastics Academy Shiveley Gym,leisure,0
+577,Arrivé,building,1
+578,Fremont Building,building,1
+579,Gretchen’s Place,cafe,0
+580,Wells Fargo,bank,0
+581,The Cosmopolitan - Blk. 3,building,1
+582,Diana's Market Kitchen,cafe,0
+583,400 Fairview (Sec. H),building,1
+584,Vegan Haven,convenience,0
+585,Emerald Isle Title,tiles,0
+586,W Mcgraw St & 6th Ave W,bus_stop,0
+587,Shanti Threading Salon,beauty,0
+588,Bill & Melinda Gates Foundation - Block 3,office,1
+589,Adey Abeba,restaurant,0
+590,Pain Treatment & Wellness Center,healthcare,0
+591,Uptown Espresso,cafe,0
+592,Park's Food Mart,convenience,0
+593,Ho Ho Seafood,restaurant,0
+594,S Jackson St & 12th Ave S,bus_stop,0
+595,Color One,photography,0
+596,Medical Dental Building,building,1
+597,Collins Building (North),commercial,1

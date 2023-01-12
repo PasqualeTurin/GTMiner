@@ -1,0 +1,667 @@
+,e_name,e_category,e_type
+0,Superstar,pub,0
+1,Bayfront (CCL/DTL),subway_entrance,0
+2,Golden Leaf Curtain Centre,curtain,0
+3,Blk 39,bus_stop,0
+4,Mountbatten Station Exit A,subway_entrance,0
+5,Domino's,fast_food,0
+6,Ya Kun Kaya Toast,cafe,0
+7,Burger King,fast_food,0
+8,Shunjuu Izakaya,restaurant,0
+9,UOB,atm,0
+10,Orchard Grand Court (South),Apartments; Drugstores; Hotels,1
+11,New Cameroon Seafood,restaurant,0
+12,Sengkang New Market,marketplace,0
+13,Paik's Bibim,restaurant,0
+14,Weiken,interior_decoration,0
+15,Ramakrishna Mission,place_of_worship,0
+16,Nicoll Highway (CCL),subway_entrance,0
+17,River Valley High School,bus_stop,0
+18,Maranatha Hall,bus_stop,0
+19,Pet Lovers Centre,Pet Stores,0
+20,Sisters Cookies,cafe,0
+21,Vestin Exchange,bureau_de_change,0
+22,The Helping Hand,bus_stop,0
+23,Tanjong Pagar (EWL),subway_entrance,0
+24,Madam Saigon,restaurant,0
+25,Tanjong Katong Complex (South),Shopping Centers,1
+26,GoCycling,bicycle_rental,0
+27,7-Eleven,convenience,0
+28,Peperoni,restaurant,0
+29,Ah Khoo,cafe,0
+30,After Furama RiverFront,bus_stop,0
+31,Fusionopolis (Sec. C),Shopping Centers,1
+32,Great World City,Shopping Centers,1
+33,Sengkang West Zone B Residents Commitee,office,0
+34,Blk 704,bus_stop,0
+35,Taiko,office,0
+36,Blk 19,taxi,0
+37,UOB,atm,0
+38,Clementi Station,taxi,0
+39,Liho Tea,beverages,0
+40,Giant,supermarket,0
+41,Hong Leong Finance,office,0
+42,Kcuts,hairdresser,0
+43,Immigration & Checkpoints Authority,office,0
+44,Changi City Point,Shopping Centers,1
+45,Opp Sentosa Pavillion,bus_stop,0
+46,Elegan'z,clothes,0
+47,Ngoi Huat Art Studio,office,0
+48,Myeongdong Hair Studio,hairdresser,0
+49,Blk 16,bus_stop,0
+50,Mandarin Orchard Singapore,Hotels,1
+51,BNP Paribas,bank,0
+52,Group Therapy,cafe,0
+53,Daiso,Department Stores,0
+54,Steve Florists,florist,0
+55,Parkway Parade,Shopping Centers,1
+56,The Source Bulk Foods,health_food,0
+57,Rong Hua Bak Kut Teh,restaurant,0
+58,Putera Putera,restaurant,0
+59,Spices & Curries Express,restaurant,0
+60,Peninsula Plaza,Shopping Centers,1
+61,Blk 125,bus_stop,0
+62,Nanyang Sacred Union,office,0
+63,UOB,bank,0
+64,NUSS Bukit Timah Guild House,restaurant,0
+65,7-Eleven,convenience,0
+66,After Padang Jeringau,bus_stop,0
+67,Yu Lu Tang Foot Reflexology,massage,0
+68,The Body Shop,cosmetics,0
+69,Grand Park Orchard,Hotels,1
+70,Imperial Spa,beauty,0
+71,Bata,shoes,0
+72,Tesla Supercharger,charging_station,0
+73,King,furniture,0
+74,Pacific Plaza,Shopping Centers,1
+75,The Hearing Room,clinic,0
+76,Golden Mile Complex (East),Shopping Centers,1
+77,7-Eleven,convenience,0
+78,Mount Elizabeth Hospital,Hospitals,1
+79,7-Eleven,convenience,0
+80,Ming Chong Auto Parts Accessories Trading,car_parts,0
+81,Dong Fang Cai Guan,restaurant,0
+82,Machan's,restaurant,0
+83,7-Eleven,convenience,0
+84,Phyto Hair Spa by ReVamp,Hair Salons; Day Spas,0
+85,Parkway Parade,parking_entrance,0
+86,Raj,restaurant,0
+87,Hazel Eyecare,optician,0
+88,Singapore Indoor Stadium (Section B),Stadiums & Arenas,1
+89,After Kim Yam Road,bus_stop,0
+90,Orchard (NSL) Exit B,subway_entrance,0
+91,People's Park Complex,Shopping Centers,1
+92,Embassy of Saudi Arabia,office,0
+93,A. Wali Mohamed Bros,bureau_de_change,0
+94,Liat Towers - Blk. 5,Shopping Centers,1
+95,Value Max,pawnbroker,0
+96,Ruins,attraction,0
+97,Guang Yuan vegetarian,cafe,0
+98,Matisse Design,office,0
+99,Exchange Money,bureau_de_change,0
+100,Tuff Club,nightclub,0
+101,Derma Medic Beauty,beauty,0
+102,Bollywood Veggies - Blk. 3,Parks; Cafes,1
+103,Cluny Court,Shopping Centers,1
+104,Future Florist,florist,0
+105,An Kang TCM,doctors,0
+106,Pizza Hut Delivery,fast_food,0
+107,Food in the Woods,restaurant,0
+108,West Coast Plaza,Shopping Centers,1
+109,Katong Shopping Centre,Shopping Centers,1
+110,UOB,atm,0
+111,Gourmet House,restaurant,0
+112,Aljunied 119 Food House,cafe,0
+113,Pure Dental,dentist,0
+114,White Sands,Shopping Centers,1
+115,Zhongshan Mall,Shopping Centers,1
+116,Spice,restaurant,0
+117,Boost Juice,Juice Bars & Smoothies,0
+118,Global Ayurvedic Medicine,healthcare,0
+119,Changi Airport Terminal 2,Airport Terminals,1
+120,BlueTree Education Learning Centre (King's Arcade),prep_school,0
+121,Eng's Wantan Noodle,restaurant,0
+122,Standard Chartered Bank,bank,0
+123,Casa Dental,hospital,0
+124,After Raffles Hotel,bus_stop,0
+125,Changi Airport Terminal 1 (East),Airport Terminals,1
+126,Lumiarte,lighting,0
+127,UOB,atm,0
+128,OCBC,atm,0
+129,Century Square (North),Shopping Centers,1
+130,The Muscle Lab Singapore,healthcare,0
+131,The Rink,leisure,0
+132,Dear Mutt Pet Hotel,pet,0
+133,OCBC Bank,bank,0
+134,Pit 38D,bbq,0
+135,Maison Ikkokku,cafe,0
+136,Maharajah,restaurant,0
+137,Century Square,Shopping Centers,1
+138,School of Engineering,office,0
+139,Pro Eyez Optometrists,healthcare,0
+140,Wilkie Edge,Shopping Centers,1
+141,NTUC FairPrice Xtra,supermarket,0
+142,Change Alley (Building 7),Shopping Centers,1
+143,Tiong Bahru Plaza,Shopping Centers,1
+144,Gastronomia,cafe,0
+145,Collezione,clothes,0
+146,UOB,atm,0
+147,Singapore Polytechnic - Blk. 2,Colleges & Universities,1
+148,Depizza,restaurant,0
+149,Forture,restaurant,0
+150,Chubb Singapore,bus_stop,0
+151,Texas Chicken,fast_food,0
+152,Ayam Penyet Ria,restaurant,0
+153,UOB,atm,0
+154,Prudential Tower,bus_stop,0
+155,Keysight Technologies,office,0
+156,Yale-NUS College (Building 6),Colleges & Universities,1
+157,Hong Jjajang,restaurant,0
+158,UOB,atm,0
+159,Swee Heng,bakery,0
+160,Grease Monkey,pub,0
+161,The Coastal Settlement,restaurant,0
+162,Odette,restaurant,0
+163,Sukiya,restaurant,0
+164,The Old Straits Cafe,cafe,0
+165,The Hive Lavender,office,0
+166,The Sunny Spring Condominium,bus_stop,0
+167,Embassy of Brazil,office,0
+168,Chop Chye Bee,restaurant,0
+169,Polar,pastry,0
+170,Lovisa,Shopping,0
+171,Historic Cannon,historic,0
+172,Tori Q,fast_food,0
+173,FairPrice Finest Seletar Mall,supermarket,0
+174,Mustafa Centre,Shopping Centers,1
+175,Lee Clinic,clinic,0
+176,Mandarin Oriental,Hotels,0
+177,Anak Bukit,motorway_junction,0
+178,DC West,office,0
+179,UOB,atm,0
+180,UOB,atm,0
+181,Rocana Buddha Pagoda,artwork,0
+182,Wholesale Centre,bus_stop,0
+183,lift,elevator,0
+184,Rolex,watches,0
+185,Marsiling (NSL) Exit B,subway_entrance,0
+186,Opposite Blk 519A,bus_stop,0
+187,Harry's Bar + Dining,bar,0
+188,Eastpoint Shopping Mall,taxi,0
+189,Carl's Jr.,fast_food,0
+190,La Danz,leisure,0
+191,Child's Atelier,kindergarten,0
+192,West Coast Plaza,Shopping Centers,1
+193,Blk 657,bus_stop,0
+194,Opposite Nanyang Crescent Halls,bus_stop,0
+195,Sembawang Shopping Centre (Sec. G),Shopping; Shopping Centers,1
+196,Massage Master,massage,0
+197,Kingritz Showroom,interior_decoration,0
+198,tentage,place_of_worship,0
+199,TSquared Lab,leisure,0
+200,The Working Capitol,Shared Office Spaces; Venues & Event Spaces,1
+201,Hong Kong Street Chun Tat Kee,restaurant,0
+202,Este villa,attraction,0
+203,City Plaza (Sec. E),Shopping Centers,1
+204,The battle for Malaya and Singapiee,information,0
+205,Art Friend,art,0
+206,Tiong Bahru Neighbourhood Police Post,police,0
+207,Ponnusamy,restaurant,0
+208,My Kampung,food_court,0
+209,Fight Zone,sport,0
+210,Lim Clinic,clinic,0
+211,Orchid Hotel (West),Hotels,1
+212,Footloops,bicycle,0
+213,Tandoori Culture,restaurant,0
+214,Swee Heng 1989 Bakery Cafe,cafe,0
+215,Bugis Cube,bus_stop,0
+216,Pizza Hut,restaurant,0
+217,One George Street,Real Estate; Landmarks & Historical Buildings,1
+218,Blk 1,bus_stop,0
+219,UOB Tampines Centre Carpark,parking,0
+220,UOB,atm,0
+221,DA Clinic @ Anson,clinic,0
+222,Queensway Shopping Centre,Shopping Centers; Sporting Goods,1
+223,Sinaran Seafood & Catering,restaurant,0
+224,Dragonfly,artwork,0
+225,Zasofi Tapas Bar,bar,0
+226,Liat Towers,Shopping Centers,1
+227,Maxi-Cash,pawnbroker,0
+228,McDonald's,fast_food,0
+229,Merlion Guardian Statue,historic,0
+230,Wabar,restaurant,0
+231,Mmeow,restaurant,0
+232,Habibi-san,bbq,0
+233,Toppan,office,0
+234,KFC,fast_food,0
+235,Man Studio,clothes,0
+236,Thai Food Court (Multiple Shops),restaurant,0
+237,UE Square - Blk. 5,Shopping Centers,1
+238,e Walker,bicycle,0
+239,Pacamara Boutique Coffee Roasters,cafe,0
+240,Wan Wan Wellness,pet,0
+241,Limited Edt,shoes,0
+242,uncle Louis famous chicken rice,fast_food,0
+243,Zhao An Granny Grass Jelly,Farmers Market,0
+244,U Stars Supermarket,supermarket,0
+245,La Salsa,restaurant,0
+246,Hung Brothers,Electronics,0
+247,7-Eleven,convenience,0
+248,Nanyang,motorway_junction,0
+249,Emerald Beauties,beauty,0
+250,ECM Healthcare PTE LTD,office,0
+251,Hoshino Coffee,cafe,0
+252,Yamazaki Boulangerie Chaude,Bakeries,0
+253,Dallas Restaurant & Bar,restaurant,0
+254,Starbucks,cafe,0
+255,The Collector Base,collector,0
+256,Light + Form,lighting,0
+257,7-Eleven,convenience,0
+258,Great World City (West),Shopping Centers,1
+259,Pit 41,bbq,0
+260,Public House,pub,0
+261,Starbucks,cafe,0
+262,Pro-Teach Education,school,0
+263,U Stars Supermarket,supermarket,0
+264,Raffles Hotel,taxi,0
+265,Admiralty (NSL) Exit C,subway_entrance,0
+266,Royal Plaza On Scotts - Blk. 5,Hotels,1
+267,JCube,Shopping Centers,1
+268,Change Alley,Shopping Centers,1
+269,Sembawang Shopping Centre,Shopping; Shopping Centers,1
+270,Daiso,variety_store,0
+271,Kawah Self Storage,office,0
+272,Tampines Mall,taxi,0
+273,Katong Catholic Book Centre,books,0
+274,Long John Silver's,fast_food,0
+275,Sheng Siong,supermarket,0
+276,Unidbox Hardware Pte Ltd,hardware,0
+277,SIM University,college,0
+278,White Sands (Section C),Shopping Centers,1
+279,Opposite Singapore Indoor Stadium,bus_stop,0
+280,Ruins,attraction,0
+281,After Upper Serangoon Road,bus_stop,0
+282,Black Ball,cafe,0
+283,Wellaholic (Lavender),beauty,0
+284,Amoy Street Food Centre (East),Food Court; Hawker Centre,1
+285,Bendemeer Station Exit B,bus_stop,0
+286,Dopo Teatro,beverages,0
+287,Audio-Technica,hifi,0
+288,McDonald's,fast_food,0
+289,The Three Crowns,pub,0
+290,Pang's Satay,fast_food,0
+291,Unique Hair & Beauty Salon,hairdresser,0
+292,Jalan Besar Swimming Complex,Swimming Pools; Recreation Centers,1
+293,Oyeyo Boulder Home,leisure,0
+294,Clementi Public Library,library,0
+295,Art of Drinking,bar,0
+296,Crizal Unique Optic,optician,0
+297,Opposite One Upper Pickering,bus_stop,0
+298,Gap,Women's Clothing; Men's Clothing,0
+299,Awfully Chocolate,chocolate,0
+300,Diandin Leluk,restaurant,0
+301,Bengawan Solo,Local Flavor; Bakeries,0
+302,Winly Paints Pte. Ltd.,paint,0
+303,Putien,restaurant,0
+304,Wine Connection Tapas Bar & Bistro,French; Pubs,0
+305,Canvas Club,nightclub,0
+306,Wilkie Edge (Building 2),Shopping Centers,1
+307,Zheng Qi Shi Guo Yu,restaurant,0
+308,Cheong Medical Clinic,clinic,0
+309,7-Eleven,convenience,0
+310,iSteaks Grillhouse,Steakhouses; Diners,0
+311,Blk 203B,bus_stop,0
+312,High Street Centre,bus_stop,0
+313,U Stars Supermarket,supermarket,0
+314,Budget Value PTE LTD,houseware,0
+315,UOB,bank,0
+316,Sheng Siong,supermarket,0
+317,Arena,beauty,0
+318,Marina South Pier (NSL) Exit A,subway_entrance,0
+319,OCBC ATM,atm,0
+320,Peninsula Plaza (East),Shopping Centers,1
+321,Whampoa Dragon,fountain,0
+322,Istanblue,restaurant,0
+323,Bugis Village - Block 3,Fashion; Shopping Centers,1
+324,Opposite Jurong Secondary School,bus_stop,0
+325,Wood in the Books,books,0
+326,HubQuarters,coworking_space,0
+327,Watson's,Department Stores,0
+328,Eighteen Chefs,restaurant,0
+329,Punggol Temporary Interchange,bus_station,0
+330,Kcuts,hairdresser,0
+331,Golden Mile Food Centre,restaurant,0
+332,Treknology 3,bicycle,0
+333,UOB,atm,0
+334,Katanashi,restaurant,0
+335,Opposite Rochor Station,bus_stop,0
+336,Hao Mart,supermarket,0
+337,7-Eleven,Convenience Stores,0
+338,Katong Shopping Centre (Section D),Shopping Centers,1
+339,Frazer Jones,office,0
+340,Cannondale,bicycle,0
+341,myVillage (North),Shopping Centers,1
+342,ValueMax,pawnbroker,0
+343,Canadian Pizza,restaurant,0
+344,Sweettalk,Coffee & Tea; Tea Rooms; Juice Bars & Smoothies,0
+345,Q&M,dentist,0
+346,Giant,supermarket,0
+347,Cotton On,clothes,0
+348,NTUC Fairprice,supermarket,0
+349,Changi Airport Terminal 1,Airport Terminals,1
+350,Santee Auto PTE LTD,car_repair,0
+351,Subway,fast_food,0
+352,Varsity Park Condo Private Parking,parking,0
+353,Guan Kitchen,restaurant,0
+354,Tiong Bahru Post Office,post_office,0
+355,Eastern Battery Service,car_repair,0
+356,The Queen's Cats,cafe,0
+357,Sunshine Place,Shopping Centers,1
+358,Mari Mari,restaurant,0
+359,United Square,Shopping Centers,1
+360,Jalan Besar Swimming Complex,Swimming Pools; Recreation Centers,1
+361,Opposite Hong Lim Complex,bus_stop,0
+362,Sheng Siong,supermarket,0
+363,POSB Serangoon Central Branch,bank,0
+364,The Coffee Bean & Tea Leaf,Coffee & Tea,0
+365,ShopBack,office,0
+366,National Museum of Singapore,Museums,1
+367,He Ji Fa Super Mart,general,0
+368,The Central (Building 3),Shopping Centers,1
+369,Sri Sun Express,restaurant,0
+370,Log challenge,leisure,0
+371,Beaujolais,restaurant,0
+372,Bangkit Station,bus_stop,0
+373,Car Drop-off Point and Foyer,shelter,0
+374,Unity Denticare,dentist,0
+375,DurianBB,greengrocer,0
+376,Godmama,restaurant,0
+377,Marvele,office,0
+378,Fatboy's,restaurant,0
+379,Kinokuniya,books,0
+380,BASF South East Asia Pte. Ltd.,office,0
+381,MOS Burger,fast_food,0
+382,Singapore Indoor Stadium,Stadiums & Arenas,1
+383,Swarovski,jewelry,0
+384,AMK 347 Foodhouse,restaurant,0
+385,National University of Singapore,Colleges & Universities,1
+386,Island Family Clinic (Sengkang),clinic,0
+387,BlueSG,car_sharing,0
+388,UOB,bank,0
+389,Meyer Motors,car,0
+390,HostWithLove - Web Hosting Singapore,office,0
+391,Seletar Hill Restaurant,restaurant,0
+392,Arteastiq,Coffee & Tea,0
+393,Bugis Village,Fashion; Shopping Centers,1
+394,UOB,bank,0
+395,Marina Bay Sands,parking,0
+396,Pacific Plaza (North),Shopping Centers,1
+397,UOB,bank,0
+398,Soon Hock Store,bicycle,0
+399,Before Changi Fire Station,bus_stop,0
+400,Zhongshan Mall (Building 9),Shopping Centers,1
+401,Kuishin Bo,restaurant,0
+402,7-Eleven,convenience,0
+403,SCAPE (South),Shopping Centers,1
+404,Hoa Nam Building,bus_stop,0
+405,The Lawn,restaurant,0
+406,Sian Chay,office,0
+407,Chat MAsala,restaurant,0
+408,Terminal 3 carpark,parking_entrance,0
+409,Little Footprints,childcare,0
+410,Parkway Parade,taxi,0
+411,City Plaza,Shopping Centers,1
+412,Changi City Point (Building 5),Shopping Centers,1
+413,Monsoon,hairdresser,0
+414,Christofori Music School,music_school,0
+415,Haakon,cafe,0
+416,Singapore Pools,office,0
+417,Superwash Laundry,laundry,0
+418,Fragrance Foodstuff,Imported Food,0
+419,Al-Amin,fast_food,0
+420,Wet Burger,Specialty Food,0
+421,V.hive,Furniture Stores,0
+422,Toa Payoh (NSL) Exit A,subway_entrance,0
+423,Royal Plaza On Scotts,Hotels,1
+424,Gifts Greetings,Art Supplies; Toy Stores,0
+425,Tiong Bahru Plaza,Shopping Centers,1
+426,Staccato Music School,school,0
+427,People's Park Complex (Sec. D),Shopping Centers,1
+428,7-Eleven,convenience,0
+429,Shine Music School,music_school,0
+430,The Cocoa Trees,confectionery,0
+431,Ruins,attraction,0
+432,Big Boss,restaurant,0
+433,Queensway Shopping Centre (Building 2),Shopping Centers; Sporting Goods,1
+434,Liat Towers,taxi,0
+435,Xuan Miao Vegan - Kopitiam Foodcourt,cafe,0
+436,Osteopathic Healthcare Pte Ltd,clinic,0
+437,Micron Semiconductor Asia Pte. Ltd.,office,0
+438,Ground Up,leisure,0
+439,Golden Mile Complex,Shopping Centers,1
+440,Kensing On Family Clinic,clinic,0
+441,Owl Cafe,Coffee & Tea; Cafes,0
+442,Palais Renaissance,Shopping Centers,1
+443,Amoy Street Food Centre,Food Court; Hawker Centre,1
+444,Bukit Timah Nature Reserve,information,0
+445,Plaza Singapura,Shopping Centers,1
+446,Doong Ji,restaurant,0
+447,Tanjong Katong Complex,Shopping Centers,1
+448,Food Junction,Asian Fusion,0
+449,Good Taste Restaurant,restaurant,0
+450,Goldleaf Taiwan Restaurant,restaurant,0
+451,Buzz News,newsagent,0
+452,Blk 8,bus_stop,0
+453,Prive Restaurant,restaurant,0
+454,IMM,Shopping Centers,1
+455,OCBC,atm,0
+456,Peach Garden,restaurant,0
+457,Fika,restaurant,0
+458,Yuhua Senior Activity Centre,social_facility,0
+459,Skinny Pizza,fast_food,0
+460,Harvest,cafe,0
+461,Forum Restaurant,restaurant,0
+462,Palais Renaissance (Sec. F),Shopping Centers,1
+463,Bendemeer,taxi,0
+464,Baskin-Robbins,ice_cream,0
+465,myVillage,Shopping Centers,1
+466,SAMUDERA STN EXIT A,bus_stop,0
+467,Mount Elizabeth Hospital,Hospitals,1
+468,The Muffinry,bakery,0
+469,O Chicken & Beer,restaurant,0
+470,Ya Kun Kaya Toast,cafe,0
+471,Bakau Station/Blk 122F,bus_stop,0
+472,Fortune Centre,Shopping Centers,1
+473,IMM - Blk. 4,Shopping Centers,1
+474,(wrong location),artwork,0
+475,Krispy Kreme,fast_food,0
+476,7 Eleven,convenience,0
+477,Singapore Polytechnic,Colleges & Universities,1
+478,Forum The Shopping Mall,Shopping Centers,1
+479,Al Ameerag Restaurant,restaurant,0
+480,Bollywood Veggies,Parks; Cafes,1
+481,Gran Vision,office,0
+482,Golden Pail Spa,massage,0
+483,Mizuki,restaurant,0
+484,Shun Zhou Hardware Pte. Ltd.,office,0
+485,Gyoza King,restaurant,0
+486,Coral Park Magic Tree,attraction,0
+487,The Arts House,Performing Arts; Cinema; Venues & Event Spaces,1
+488,Wee Nam Kee Chicken Rice,Chicken Shop; Hainan,0
+489,Orchid Hotel,Hotels,1
+490,EI3,parking_entrance,0
+491,83 Hair Dressing,hairdresser,0
+492,Fluffy Dessert,restaurant,0
+493,Hafary,tiles,0
+494,Boon Lay,motorway_junction,0
+495,Whitley Animal Medical Centre,veterinary,0
+496,Outdor Classroom,historic,0
+497,Naranjan Electronics PTE Ltd,electronics,0
+498,The Arts House - Block 4,Performing Arts; Cinema; Venues & Event Spaces,1
+499,DBS,bank,0
+500,Money Changer,bureau_de_change,0
+501,Ronin,cafe,0
+502,Tai Seng (CCL),subway_entrance,0
+503,UOB,atm,0
+504,Parking Bus,bus_stop,0
+505,Blk 3021,bus_stop,0
+506,McDonald's,Food Delivery Services,0
+507,Madeleine's Original Portuguese Egg Tart,pastry,0
+508,Mandarin Orchard Singapore (East),Hotels,1
+509,Oxley Education,prep_school,0
+510,Horizon Gardens,bus_stop,0
+511,Happy Wash Laundrette,laundry,0
+512,Blk 513,bus_stop,0
+513,Hsinghai Art Association,arts_centre,0
+514,Suvai Foods PTE LTD,food,0
+515,Carpark F,bus_stop,0
+516,Tang Dynasty,beauty,0
+517,Maths Hub Enrichment Centre (Kovan),prep_school,0
+518,Hort Park Visitor Services Centre,information,0
+519,ANZ,bank,0
+520,Nan Tai Eating House,restaurant,0
+521,Giant River Otter,attraction,0
+522,One George Street - Blk. 2,Real Estate; Landmarks & Historical Buildings,1
+523,Li Sheng Iron Works,office,0
+524,Astons,restaurant,0
+525,NTUC Fairprice,supermarket,0
+526,Parkway Parade (West),Shopping Centers,1
+527,Bugis+ - Blk. 3,Shopping Centers,1
+528,ID Avenue,interior_decoration,0
+529,Opposite Newton Station Exit C,bus_stop,0
+530,Li Fang Congee,restaurant,0
+531,Park Green,apartment,0
+532,The Central,Shopping Centers,1
+533,Accredit,money_lender,0
+534,NTUC Fairprice,supermarket,0
+535,Mr Stork,bar,0
+536,Ming Sing Flowers,florist,0
+537,Blk 111,bus_stop,0
+538,La Belle Couture,boutique,0
+539,JCube (Section A),Shopping Centers,1
+540,VolumeFive Pte. Ltd.,bathroom,0
+541,UFIT Orchard,leisure,0
+542,Rent & Go Car Rental,car_rental,0
+543,Unique Lighting Pte Ltd,furniture,0
+544,Bruno's,restaurant,0
+545,NTUC Fairprice,supermarket,0
+546,Blu Kouzina,restaurant,0
+547,Supertree Grove,information,0
+548,Priya Sen Skin & Laser Centre,hospital,0
+549,CASIO,watches,0
+550,Telok Blangah Hill Park,information,0
+551,Festive Arts Theatre,cinema,0
+552,Rachel Mung Floral Studio,florist,0
+553,Wrap & Roll,Vietnamese,0
+554,Pondok Jawa Timur,restaurant,0
+555,Hong Leong Finance Limited,bank,0
+556,Boon Tat Street BBQ Seafood,restaurant,0
+557,Fortune Centre - Blk. 2,Shopping Centers,1
+558,Sunshine Place (East),Shopping Centers,1
+559,Let There Be Peace,artwork,0
+560,Peace Centre,bus_stop,0
+561,1983 Cafe Nanyang @ Terminal 2,Cafes,0
+562,Bishan North Shop Mall,bus_stop,0
+563,La Pizzaiola,restaurant,0
+564,UOB,atm,0
+565,Long Bar,bar,0
+566,Mobile Pet Cremation,crematorium,0
+567,Waikiki Dive,scuba_diving,0
+568,HSBC,bank,0
+569,Aquarium,attraction,0
+570,Tampines Concourse Interchange,bus_station,0
+571,Pentagon,office,0
+572,Sheng Siong,supermarket,0
+573,Daisy's Dream Kitchen,restaurant,0
+574,Life Childcare Centre,kindergarten,0
+575,Starbucks,cafe,0
+576,Blk 106,bus_stop,0
+577,Plaza Singapura (Bld. 5),Shopping Centers,1
+578,APAC Law Corporation (#12-01),office,0
+579,Mufiz,restaurant,0
+580,McDonald's,fast_food,0
+581,Cotton On,clothes,0
+582,Shadori,clothes,0
+583,Mutual Healthcare Medical Clinic,clinic,0
+584,The Coffee Bean & Tea Leaf,cafe,0
+585,Craftsmen Speciality Coffee,cafe,0
+586,Bugis+,Shopping Centers,1
+587,Rumah Makan Santai,restaurant,0
+588,office job sg,artwork,0
+589,Ruins,attraction,0
+590,DFS Watches,watches,0
+591,Dian Xiao Er,restaurant,0
+592,Vitakids,Health & Medical; Travel Services,0
+593,Gate of Hope,attraction,0
+594,Blk 151,bus_stop,0
+595,Uya,restaurant,0
+596,FundExpress,pawnbroker,0
+597,Bok Hee,pastry,0
+598,NTUC Fairprice,supermarket,0
+599,Cluny Court - Block 3,Shopping Centers,1
+600,Expo (DTL),subway_entrance,0
+601,Serangoon (NEL),subway_entrance,0
+602,UE Square,Shopping Centers,1
+603,Victory Hardware,hardware,0
+604,United Square - Blk. 3,Shopping Centers,1
+605,Bayfront (CCL/DTL) Exit A,subway_entrance,0
+606,Kampong Glam,restaurant,0
+607,Song Fa Bak Kut Teh,restaurant,0
+608,The Mind Design,office,0
+609,Bee Cheng Hiang,butcher,0
+610,Spinelli Coffee,Food,0
+611,McDonald's,fast_food,0
+612,National University of Singapore (East),Colleges & Universities,1
+613,6ixty 7even,restaurant,0
+614,Before Balestier Plaza,bus_stop,0
+615,Forum The Shopping Mall - Block 5,Shopping Centers,1
+616,UOB,atm,0
+617,Man Man Unagi,restaurant,0
+618,Mustafa Centre,Shopping Centers,1
+619,Hyangtogol,restaurant,0
+620,Yale-NUS College,Colleges & Universities,1
+621,Blk 35,bus_stop,0
+622,Highest Paints,paint,0
+623,Smoking room,smoking_area,0
+624,Carpark 12A,parking,0
+625,Golden Heights,bus_stop,0
+626,Nespresso,coffee,0
+627,Church Of Saint Vincent De Paul,bus_stop,0
+628,Monso Hair Design,hairdresser,0
+629,National Museum of Singapore (South),Museums,1
+630,Sumptuous Restaurant LLP,restaurant,0
+631,SCAPE,Shopping Centers,1
+632,Opposite Blk 40,bus_stop,0
+633,After East Coast Road,bus_stop,0
+634,Prime,supermarket,0
+635,Bee Cheng Hiang,Local Flavor; Food,0
+636,Changi Airport Terminal 2 (Sec. H),Airport Terminals,1
+637,Swee Kee Fish Head Noodle House,restaurant,0
+638,Valu$,variety_store,0
+639,Kaki,cafe,0
+640,A1 motor Co.,car_parts,0
+641,The Wallet Shop,bag,0
+642,Fusionopolis,Shopping Centers,1
+643,U Stars Supermarket,supermarket,0
+644,Woobbee,tea,0
+645,LIN LIN VEGETARIAN DELIGHT,cafe,0
+646,Orchard Grand Court,Apartments; Drugstores; Hotels,1
+647,Sophia Brow House,beauty,0
+648,OCBC,Banks & Credit Unions,0
+649,Starbucks,cafe,0
+650,Boarding Gate,bag,0
+651,Academia,prep_school,0
+652,ValueMax,pawnbroker,0
+653,Esplanade Car Park,parking_entrance,0
+654,Loke Culinarian,restaurant,0
+655,Fu Heng Jewellery,jewelry,0
+656,Aal amaan,restaurant,0
+657,The Working Capitol (Building 4),Shared Office Spaces; Venues & Event Spaces,1
+658,Hao Mart,supermarket,0
+659,Natural9,greengrocer,0
+660,Pramie Automobil,car,0
+661,Shenton Family Medical Clinic,clinic,0
+662,VerveX,Local Services,0
+663,Grand Park Orchard - Block 2,Hotels,1
+664,UOB,atm,0
+665,Kampung Chai Chee Community Club,community_centre,0

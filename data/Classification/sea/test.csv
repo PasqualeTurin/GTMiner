@@ -1,0 +1,895 @@
+,e_name,e_category,e_type
+0,Evolve Apartments - Blk. 3,building,1
+1,Parliament Tavern,pub,0
+2,AGC Building,building,1
+3,Proliance Syrgeons,doctors,0
+4,Toulouse Petit,restaurant,0
+5,Evolve Apartments,building,1
+6,Counterbalance Bicycles,bicycle,0
+7,49th Ave SW & SW Hudson St,bus_stop,0
+8,"iLocal, Inc.",office,0
+9,SE Seattle Tool Library,community_centre,0
+10,Medhane-Alem Evangelical Church,place_of_worship,0
+11,"Dependable Construction Supply, Inc.",hardware,0
+12,Solution Chiropractic,doctors,0
+13,The Shop,hairdresser,0
+14,Northwest Pendleton,clothes,0
+15,Rainier Vehicle and Vessel Licensing,office,0
+16,Central Library - Block 2,library,1
+17,Seattle Coin Shop,coin,0
+18,Spinnaker Bay Brewery,bar,0
+19,"Kubota Kato, Architects",office,0
+20,Corgiat Building,building,1
+21,Colman Park Info,information,0
+22,Dini Halal Restaurant,restaurant,0
+23,Timothy & James Hair,hairdresser,0
+24,Fresh Fish Company,seafood,0
+25,The Import Doctors,car_repair,0
+26,15th Ave W & W Dravus St,bus_stop,0
+27,Bartell Drugs,pharmacy,0
+28,Village Place,commercial,1
+29,Fourth and Madison Building (West),building,1
+30,Mapleleaf School,school,0
+31,Kidz Dental Haven,dentist,0
+32,The Massage Sanctuary,massage,0
+33,Pine St & 4th Ave,bus_stop,0
+34,NE 45th St & University Way NE,bus_stop,0
+35,Pioneer Square Station,elevator,0
+36,23rd Ave S & S Massachusetts St,bus_stop,0
+37,Pulumi Corporation,office,0
+38,Subway,fast_food,0
+39,Hudson Building (South),building,1
+40,School Employees Credit Union,bank,0
+41,Aladdin Bail Bonds,Bail Bondsmen,0
+42,Professional Copy & Print,copyshop,0
+43,El Costeño,fast_food,0
+44,Seattle Hair Studio,hairdresser,0
+45,Julia's,bar,0
+46,Scheuerman Block,building,1
+47,trübistro,cafe,0
+48,Burger Hut,fast_food,0
+49,The Century Building - Block 5,building,1
+50,El Borracho,restaurant,0
+51,Tian Fu,restaurant,0
+52,Laurel Village Community Center - Block 4,community_centre,1
+53,Primo Pizza Parlor,restaurant,0
+54,Super Genius Tattoo,tattoo,0
+55,Visions Northwest,Optometrists; Eyewear & Opticians,0
+56,Cove (Building 3),building,1
+57,Peace Love and Happiness Club,clothes,0
+58,Hawthorne Stereo,hifi,0
+59,Amazon.com Houdini South,office,1
+60,Village Place (Bld. 1),commercial,1
+61,5th Ave S & S Jackson St,bus_stop,0
+62,The Humphrey (Sec. C),building,1
+63,Amazon.com The Spheres,building,1
+64,Copy & Print,copyshop,0
+65,Lake City Way NE & NE 115th St,bus_stop,0
+66,Everly,delivery_locker,0
+67,Rupee Bar,bar,0
+68,Foxycut Salon,hairdresser,0
+69,8th Ave NW & NW 51st St,bus_stop,0
+70,Seattle Tavern & Ballroom,pub,0
+71,Untitled Bird-Bath,artwork,0
+72,Sweet Alchemy Ice Creamery,ice_cream,0
+73,Art Xchange,art,0
+74,Cold Crash Brewing Co. Tasting Room,pub,0
+75,Banfield Pet Hospital,veterinary,0
+76,CVS Pharmacy,pharmacy,0
+77,Anytime Fitness,leisure,0
+78,Totem Pole Loand - Block 4,building,1
+79,Ballard Smokeshop Restaurant & Lounge,restaurant,0
+80,Nest Bedding,Mattresses; Furniture Stores,0
+81,"Heaven, Man, Earth",artwork,0
+82,The Chicken Supply,restaurant,0
+83,Wink Hair Studio,beauty,0
+84,NW Peaks Brewery,bar,0
+85,#1 Pro Nails,beauty,0
+86,First Tech Federal Credit Union,bank,0
+87,Molly Moon's Homemade Ice Cream - Queen Anne,ice_cream,0
+88,Ma’ono Fried Chicken,fast_food,0
+89,Great State Burger - Laurelhurst,restaurant,0
+90,NE Campus Pkwy & University Way NE,bus_stop,0
+91,Seattle Laptop,computer,0
+92,University District Building,building,1
+93,The Copy Spot,copyshop,0
+94,H2O2,hairdresser,0
+95,Gainsbourg,restaurant,0
+96,Superior Auto Service,car_repair,0
+97,Building 1,office,1
+98,West Viewmont Way W & W Bertona St,bus_stop,0
+99,The 5 Point,bar,0
+100,Tavern 12,restaurant,0
+101,Ravenna Office Building (East),office,1
+102,West Seattle Women’s Health and Midwifery,clinic,0
+103,Speckled & Drake,bar,0
+104,Seattle Meds Pharmacy,waste_basket,0
+105,1st Ave S & S Atlantic St,bus_stop,0
+106,Howell St & 9th Ave,bus_stop,0
+107,48th Ave SW & SW Raymond St,bus_stop,0
+108,Thunder Road Guitars,musical_instrument,0
+109,15th Ave NE & NE Campus Pkwy,bus_stop,0
+110,Hawley Realty,office,0
+111,Autumn,restaurant,0
+112,Charlotte Martin Theatre,information,0
+113,Greenwood Pencil Box,gift,0
+114,Wandering Rocks,artwork,0
+115,West Seattle Eagles,social_centre,0
+116,Ian's Pizza On The Hill,fast_food,0
+117,Subway,fast_food,0
+118,Wells Fargo,bank,0
+119,Pandora Fitness,leisure,0
+120,Grappa,restaurant,0
+121,Amazon.com The Spheres (Sec. C),building,1
+122,Sew Ying Chong Co.,office,0
+123,Terra Plata,restaurant,0
+124,Luciano's Pizza,restaurant,0
+125,The Century Building,building,1
+126,Sand Point Way NE & NE 52nd St,bus_stop,0
+127,Bounty Kitchen,restaurant,0
+128,Jive Time Records,music,0
+129,Brother Barrel,restaurant,0
+130,Hotel Ballard,hotel,1
+131,Triton Dr NW & NW Golden Dr,bus_stop,0
+132,University Street Station (entrance 1),subway_entrance,0
+133,3rd Ave W & W Dravus St,bus_stop,0
+134,Fishermen's Terminal Barber Shop,hairdresser,0
+135,Maneki,restaurant,0
+136,Bottleworks,alcohol,0
+137,G & F Grocery,convenience,0
+138,Barbet,artwork,0
+139,Magic Dragon,restaurant,0
+140,Cisco Systems,office,0
+141,Turkish Delight,fast_food,0
+142,Talarico's Fremont,restaurant,0
+143,4 (Where shall I go ahead?),artwork,0
+144,Fidelity Accounting & Tax,office,0
+145,Boost Mobile,mobile_phone,0
+146,Aurora Ave N & N 38th St,traffic_signals,0
+147,Domino's,fast_food,0
+148,McMurray Medical Building,building,1
+149,Third And Wall Art Group,art,0
+150,Arthur's,restaurant,0
+151,The Singing Barber,hairdresser,0
+152,Wann Japanese Izakaya,restaurant,0
+153,East African Imports & Restaurant,restaurant,0
+154,Gelatiamo,cafe,0
+155,Spirit Gas Station,fuel,0
+156,Evergreen Treatment Services,office,0
+157,Skinner Building,building,1
+158,Morfire,restaurant,0
+159,Phở Cyclo Café,restaurant,0
+160,Vital Tea Leaf,cafe,0
+161,Village Fitness,leisure,0
+162,Fleet Feet,clothes,0
+163,Fox's Seattle,jewelry,0
+164,Kaiser Permanente Northgate Medical Center (Building 5),clinic,1
+165,Sub Shop,fast_food,0
+166,Amazon.com Stackhouse,office,1
+167,The Bistro,restaurant,0
+168,Step on no Pets,artwork,0
+169,Adams Street Boat Ramp,leisure,0
+170,Ballard Millworks,furniture,0
+171,Opal Nail Studio,beauty,0
+172,Center of Contemporary Art,art,0
+173,Subway,fast_food,0
+174,Starbucks,cafe,0
+175,23rd Ave & E Cherry St,bus_stop,0
+176,35th Ave NE & NE 85th St,bus_stop,0
+177,La Coupe,pet_grooming,0
+178,Hamlin Market & Deli,deli,0
+179,Nikko Teriyaki,cafe,0
+180,State Farm,office,0
+181,Sugar Bakery & Cafe,cafe,0
+182,La Medusa,restaurant,0
+183,Lucas Deli & Market,convenience,0
+184,Shultzy's Bar And Grill,restaurant,0
+185,Broadacres Building (Bld. 1),commercial,1
+186,15th Ave W & W Wheeler St,bus_stop,0
+187,Earth Story,artwork,0
+188,HM Duke Design,furniture,0
+189,McMurray Medical Building - Block 3,building,1
+190,Skinner Building - Block 2,building,1
+191,Crown Hotel Building,building,1
+192,Memories,artwork,0
+193,Keystone Dental,dentist,0
+194,Metropole Condominium,building,1
+195,NE Pacific St & Montlake Blvd NE,bus_stop,0
+196,Hot Stove Society,Cooking Schools,0
+197,Commissary Korean Kitchen,restaurant,0
+198,Roosevelt Station Bay 3,bus_stop,0
+199,Northgate Station Bay 4,bus_stop,0
+200,Ballard-Eagleson VFW Post 3063,social_centre,0
+201,Inn at the Market Building - Blk. 2,hotel,1
+202,Mary Catherine's,clothes,0
+203,Golden Gardens Bathhouse,building,1
+204,Sarducci's Specialty Subs,fast_food,0
+205,Wells Fargo,atm,0
+206,Eastlake Fitness,leisure,0
+207,Next Level,leisure,0
+208,New Saigon,restaurant,0
+209,Roosters,hairdresser,0
+210,Hotel Ballard (East),hotel,1
+211,Crown Hill Pet Supply,pet,0
+212,Studio Karri L.,spa,0
+213,Jordan Building,building,1
+214,NE 55th St & 25th Ave NE,bus_stop,0
+215,Miri's,cafe,0
+216,206Agency,office,0
+217,Bang Bar,restaurant,0
+218,Delicatus,restaurant,0
+219,Ray's Boathouse and Café,restaurant,0
+220,FedEx Office,copyshop,0
+221,Wells Fargo,atm,0
+222,Cove,building,1
+223,SoulCycle,leisure,0
+224,California Nails Salon,beauty,0
+225,Starbucks,cafe,0
+226,Puget Sound Plaza,building,1
+227,Seattle Sneaker City,shoes,0
+228,Chophouse Row,building,1
+229,Sasquatch Pushing over A House,artwork,0
+230,Ballard Modern Dentistry,dentist,0
+231,3rd Ave & Pine St,bus_stop,0
+232,Ruby Cleaners,dry_cleaning,0
+233,Sushi Kudasai,fast_food,0
+234,The Bike Shack,bicycle,0
+235,Pacific Science Center (Sec. F),museum,1
+236,Old Fauntleroy School,building,1
+237,NW Market St & 3rd Ave NW,bus_stop,0
+238,Water Mover,artwork,0
+239,Boca Restobar and Grill,restaurant,0
+240,SMJ Studio,office,0
+241,Waddell & Reed,office,0
+242,UW Ticket Office,ticket,0
+243,W Nickerson St & 3rd Ave W,bus_stop,0
+244,Totem Pole Loand,building,1
+245,1st Ave & Broad St,bus_stop,0
+246,Lucid Aesthetix,beauty,0
+247,Robert Mc Neel & Associates,office,0
+248,Within Reach,artwork,0
+249,200 Occidental Building,commercial,1
+250,Just Bronzed,beauty,0
+251,Fossil & Stone,art,0
+252,Active Foot and Ankle,doctors,0
+253,19th Ave E & E John St,bus_stop,0
+254,Champion Party Supply,party,0
+255,Frye Apartments,building,1
+256,U.S. Bank,atm,0
+257,Med Mix,restaurant,0
+258,Beach Dr SW & Atlas Pl SW,bus_stop,0
+259,Sanitary Public Market (Bld. 2),marketplace,1
+260,Bucklin Building - Block 4,building,1
+261,Alibi Room,bar,0
+262,8th Ave NW & NW 46th St,bus_stop,0
+263,E Yesler Way & 30th Ave S,bus_stop,0
+264,Seattle E-Bike,bicycle,0
+265,Seattle Marina (Sec. C),leisure,1
+266,Plaque,historic,0
+267,Meridian Environmental,office,0
+268,Grand Central,building,1
+269,Temple Billiards,bar,0
+270,JUMs,artwork,0
+271,"Typewriter Eraser, Scale X",artwork,0
+272,The Central,building,1
+273,Endless Knot,clothes,0
+274,Joy Bento,fast_food,0
+275,Sound Credit Union,bank,0
+276,EZ Print & Copy Shop,copyshop,0
+277,Amazon.com Dawson,office,1
+278,Sean's Place,convenience,0
+279,Northwest Automotive,car_repair,0
+280,University Way NE & NE 41st St,bus_stop,0
+281,John Michael Lang Fine Books,books,0
+282,1st Ave N & Republican St,bus_stop,0
+283,Yinzi's Kitchen,restaurant,0
+284,Seattle Shirt Company Pier 55,Souvenir Shops; Accessories; Women's Clothing,0
+285,The Alexis Royal Sonesta Hotel Seattle,hotel,1
+286,Hard Rock Cafe,restaurant,0
+287,South Lake Cafe,cafe,0
+288,Uptown Espresso,cafe,0
+289,Glacier Window & Door,doors,0
+290,Roosevelt Nails Bar,beauty,0
+291,Jose Marti Child Development Center,childcare,0
+292,Clean Express Laundromat,laundry,0
+293,Hill Top Deli Market,convenience,0
+294,Schmaltzy's Delicatessen,deli,0
+295,1111 Third Avenue - Block 2,building,1
+296,New Discovery School,school,0
+297,Seneca St & Harvard Ave,bus_stop,0
+298,Ballard Barber Shop,hairdresser,0
+299,Kizuki Ramen & Izakaya - Capitol Hill,restaurant,0
+300,Eastlake Ave E & Stewart St,bus_stop,0
+301,Health Mutt,pet,0
+302,Martin L King Jr Way S & S Graham St,bus_stop,0
+303,Ottos Smokehouse,restaurant,0
+304,Cactus - Madison Park,restaurant,0
+305,Landes Block,building,1
+306,Seattle Device Repair,electronics_repair,0
+307,Public Storage,storage_rental,0
+308,Green Lake Community Center,community_centre,1
+309,CosmoProf,hairdresser_supply,0
+310,Magnolia Professional Building (Building 9),commercial,1
+311,The Tooth Ferry,dentist,0
+312,49th Ave SW & SW Edmunds St,bus_stop,0
+313,Seattle Medium,office,0
+314,Pioneer Square Hotel - Blk. 4,building,1
+315,Modo Yoga,leisure,0
+316,Starbucks,cafe,0
+317,Vital Tea Lounge,tea,0
+318,Nagomi Tea House,cafe,0
+319,Site 17 Grocery & Deli,convenience,0
+320,Platform Gallery,art,0
+321,Mox Boarding House,bar,0
+322,Machine House Brewery,pub,0
+323,Brick + Mortar,shoes,0
+324,Soju Anju Bar,restaurant,0
+325,Five Guys,fast_food,0
+326,Findwell,office,0
+327,Hava Nail And Spa,beauty,0
+328,Noir Lash Lounge,beauty,0
+329,Shug’s Mini,cafe,0
+330,1000 Second Avenue,building,1
+331,Ravenna Homeopathic Clinic,healthcare,0
+332,Landes Block (Building 1),building,1
+333,Bistro on Yale,restaurant,0
+334,Buck Mason,clothes,0
+335,Chi Mac,restaurant,0
+336,Blink,charging_station,0
+337,Station 18,restaurant,0
+338,Florence Building,building,1
+339,Chophouse Row - Blk. 2,building,1
+340,S Washington St & 3rd Ave S,bus_stop,0
+341,E Yesler Way & 12th Ave S,bus_stop,0
+342,Northfield Block,building,1
+343,Sandals Nails & Waxing Salon,beauty,0
+344,NE 125th St & Roosevelt Way NE,bus_stop,0
+345,CISC,social_facility,0
+346,Dave Page Cobbler,shoe_repair,0
+347,Coreo Fitness,leisure,0
+348,Swansons Nursery,garden_centre,0
+349,Tutta Bella Neapolitan Pizzeria,restaurant,0
+350,Hoge Building (Sec. A),building,1
+351,Phillips Law Firm,Personal Injury Law,0
+352,SODO Busway & S Royal Brougham Way,bus_stop,0
+353,Rising Sun Fruit Stand,greengrocer,0
+354,German United Church of Christ,place_of_worship,0
+355,The Halal Guys,fast_food,0
+356,Eggleston Farkas,office,0
+357,Sand Point Way NE & NE 74th St,bus_stop,0
+358,Beach Dr SW & SW Jacobsen Rd,bus_stop,0
+359,Homage in Green,artwork,0
+360,Ugly Mug Cafe,cafe,0
+361,Liberty Bank Building,building,1
+362,Ishoni Yakiniku,restaurant,0
+363,Capitol Cider,restaurant,0
+364,Northgate Meridian Building - Block 3,building,1
+365,Changing Form,artwork,0
+366,Greenwood Nails & Spa,beauty,0
+367,Aladdin Bail Bonds,office,0
+368,Joseph Vance Building - Blk. 4,building,1
+369,Energy Fitness & Wellness,leisure,0
+370,Central Library,library,1
+371,Camera Techs,photo,0
+372,Green Lake Vista Condominiums (East),building,1
+373,Beckoning Cistern,artwork,0
+374,Goodwill South Lake Union,variety_store,0
+375,Little Free Library,public_bookcase,0
+376,Couth Buzzard,books,0
+377,Beneficial State Bank,bank,0
+378,Dr. Mark A. Matthews,artwork,0
+379,Razzi's Pizzeria,restaurant,0
+380,Arboretum Shop,gift,0
+381,Mee Sum Pastry,fast_food,0
+382,8oz. Burger & Co.,restaurant,0
+383,Rabid Hands Tattoo,tattoo,0
+384,The Electric Boat Company,building,1
+385,La Cocina Oaxaquena,restaurant,0
+386,Eastern Cafe,Coffee & Tea; Sandwiches; Breakfast & Brunch,0
+387,ZipWhip,office,0
+388,Yoshino Teriyaki,fast_food,0
+389,Copperworks Tasting Room & Distillery,bar,0
+390,Peterson Yacht Service,boat,0
+391,Dexter Station,commercial,1
+392,Domino's,fast_food,0
+393,Lola,restaurant,0
+394,Root,cafe,0
+395,Tulip Tree Mosaic,artwork,0
+396,1000Museums Archival Print Collection,art,0
+397,Chesterfield Services,pharmacy,0
+398,Lake Union Autobody,car_repair,0
+399,University District Building - Block 3,building,1
+400,Broadacres Building,commercial,1
+401,Super Supplements Distribution Center,office,0
+402,NW Dive Supply,outdoor,0
+403,Tony's Bakery and Deli,bakery;deli,0
+404,Kids Inc,kindergarten,0
+405,12th Ave S & S Jackson St,bus_stop,0
+406,28th Ave W & W Fulton St,bus_stop,0
+407,La Pasta Storefront,deli,0
+408,Inn at the Market Building,hotel,1
+409,Merle Norman Cosmetic Studios,cosmetics,0
+410,Sweet Mickey's,confectionery,0
+411,Joli,restaurant,0
+412,Diva Dollz,clothes,0
+413,Lacey O'Malley Bail Bonds,Bail Bondsmen,0
+414,Broderick Building (Bld. 4),building,1
+415,Mike's Noodle House,restaurant,0
+416,Duck Windvane,artwork,0
+417,BB's Teriyaki Grill,restaurant,0
+418,Diva Espresso,cafe,0
+419,Great State Burger,fast_food,0
+420,Monarca Express,fast_food,0
+421,The Bell of Friendship,artwork,0
+422,Urban Animal,veterinary,0
+423,Slave to the Needle,tattoo,0
+424,Pretty Parlor,clothes,0
+425,The Fixture Gallery,bathroom_furnishing,0
+426,Bike Works,office,0
+427,The Red Chair Salon,hairdresser,0
+428,Goldsmith Building - Court in the Square,building,1
+429,Advanced Metropolitan Dentistry,dentist,0
+430,2nd Ave NE & NE 42nd St,bus_stop,0
+431,15th Ave E & E Prospect St,bus_stop,0
+432,R&M Dessert Bar,cafe,0
+433,Grapheme,stationery,0
+434,200 Occidental Building (East),commercial,1
+435,U.S. Bank Centre,building,1
+436,S Washington St & 4th Ave S,bus_stop,0
+437,Lost Lake Cafe & Lounge,restaurant,0
+438,Carefree Boat Club,Boating,0
+439,Green Lake Vista Condominiums,building,1
+440,Seattle Quilt Building (Bld. 8),building,1
+441,Sur La Table,houseware,0
+442,Maggie's Shoes,shoes,0
+443,Canterbury Ale House,pub,0
+444,Bulger Safe & Lock,locksmith,0
+445,The Rock,restaurant,0
+446,Catch Design Studio,Graphic Design; Interior Design; Architects,0
+447,Plant Shop,garden_centre,0
+448,1525 4th Avenue Building (West),building,1
+449,Seattle Sun Tan,beauty,0
+450,Critigen,office,0
+451,Jai Thai,restaurant,0
+452,The Central,building,1
+453,Broadway & E Howell St,bus_stop,0
+454,Killer Whale (Totem),artwork,0
+455,Hyatt Regency Seattle,hotel,1
+456,Rocking Wok,restaurant,0
+457,Monkey Loft,nightclub,0
+458,Starbucks,cafe,0
+459,E Madison St & Lake Washington Blvd,bus_stop,0
+460,Ben & Jerry's,ice_cream,0
+461,Pike St & Boren Ave,bus_stop,0
+462,International District/Chinatown,subway_entrance,0
+463,Gorgeous George,restaurant,0
+464,Dollar Tree,variety_store,0
+465,Wit and Wisdom,artwork,0
+466,Piroshky Piroshky at Pike Place Market,restaurant,0
+467,Teriyaki Seven,restaurant,0
+468,Lakeview Blvd E & Boylston Ave E,bus_stop,0
+469,Bucklin Building,building,1
+470,Pacific Science Center,museum,1
+471,The UPS Store,post_office,0
+472,Metropole Condominium (South),building,1
+473,Umbria,cafe,0
+474,Bloodworks Northwest North Seattle,healthcare,0
+475,Artist Trust,office,0
+476,Bloodworks,office,0
+477,KOMO Plaza West,building,1
+478,Peet's Coffee,cafe,0
+479,UW Bike Locker Location 17,bicycle_parking,0
+480,Spirit of Washington,artwork,0
+481,Fashion Hair,hairdresser,0
+482,Tacos and Beer,restaurant,0
+483,Ceres,cafe,0
+484,Capitol Hill Vision,optician,0
+485,AGC Building,building,1
+486,East Green Lake Dr N & Sunnyside Ave N,bus_stop,0
+487,J's Quick Stop Mart,convenience,0
+488,U.S. Bank Centre - Blk. 2,building,1
+489,Jefferson St & 9th Ave,bus_stop,0
+490,Green Lake Library (Section F),library,1
+491,Cascade Dizziness & Balance,healthcare,0
+492,Halal Grocery,deli,0
+493,Ye Olde Curiosity Shop,gift,0
+494,Ballard Health Club,leisure,0
+495,Meridian Ave N & N 53rd St,bus_stop,0
+496,Department of Forensic Morphology Annex,artwork,0
+497,Move Mend,office,0
+498,Pittsburgh Lunch,cafe,0
+499,Fancy Hair,hairdresser,0
+500,Gim Wah,restaurant,0
+501,The Tamale Guy,fast_food,0
+502,Medicare Plans Enrollment Center,office,0
+503,Amazon.com Houdini South (Bld. 6),office,1
+504,Sundial,artwork,0
+505,Pier 56 - Blk. 4,building,1
+506,3111 Building,commercial,1
+507,Starbucks,cafe,0
+508,NW Leary Way & 15th Ave NW,bus_stop,0
+509,Michael Kors,clothes,0
+510,Feminine One,artwork,0
+511,Waterworks,fountain,0
+512,Montlake Bicycle Shop,bicycle,0
+513,Aurora Donuts,fast_food,0
+514,Beast & Cleaver,butcher,0
+515,Cherry's Hair Design,hairdresser,0
+516,USPS,post_box,0
+517,Trinity Nightclub,nightclub,0
+518,15th Ave NE & NE 90th St,bus_stop,0
+519,50th Ave NE & NE 70th St,bus_stop,0
+520,5th Ave S & S Weller St,bus_stop,0
+521,Wingstop,fast_food,0
+522,Echo,artwork,0
+523,Harper's Hair Studio,hairdresser,0
+524,3rd Ave S & S Main St,bus_stop,0
+525,Conor Byrne,bar,0
+526,Soma Yoga,leisure,0
+527,Seattle Quilt Building,building,1
+528,U.S. Courthouse (South),courthouse,1
+529,NOMA,parking,0
+530,Roosevelt Way NE & NE 100th St,bus_stop,0
+531,Roosevelt Way NE & NE 69th St,bus_stop,0
+532,Cobb Garage,parking_entrance,0
+533,St. Charles/Rector Hotel (Building 9),building,1
+534,Golden Gardens Bathhouse (North),building,1
+535,NE 55th St & Princeton Ave NE,bus_stop,0
+536,Bergman Luggage,bag,0
+537,Indigo Urgent Care,clinic,0
+538,NW Market St & Ballard Ave NW,bus_stop,0
+539,Light Owl Shop,gift,0
+540,Sanitary Public Market,marketplace,1
+541,Calico Salon,hairdresser,0
+542,Toshi's Teriyaki,cafe,0
+543,Northgate Meridian Building,building,1
+544,Dexter Horton Building - Blk. 5,building,1
+545,G & H Printing,copyshop,0
+546,1525 4th Avenue Building,building,1
+547,2nd Ave & Stewart St,bus_stop,0
+548,30th Ave W & W Emerson St,bus_stop,0
+549,Vitality Pilates,leisure,0
+550,Easy Street Records,music,0
+551,28th Ave W & W Raye St,bus_stop,0
+552,Florence Building - Blk. 2,building,1
+553,Hoge Building,building,1
+554,Dao's Hair Cuts,hairdresser,0
+555,Elevate Chiropractic,healthcare,0
+556,Everyday Music,music,0
+557,Summit Ave E & E Mercer St,bus_stop,0
+558,Sea Wolf Bakery,bakery,0
+559,One Hundred and Twenty Ancestors,artwork,0
+560,Artist & Craftsman Supply,stationery,0
+561,Gilmore Apartments (North),building,1
+562,CrossFit Belltown,leisure,0
+563,Bottle Cap Children,artwork,0
+564,Elliott Ave W & W Roy St,bus_stop,0
+565,Ottica,optician,0
+566,McCarthy & Schiering,wine,0
+567,NW Market St & 11th Ave NW,bus_stop,0
+568,BeJeweled,jewelry,0
+569,UW Family Medicine Residence,office,0
+570,Prism,clothes,0
+571,Best of Seattle,gift,0
+572,Allbirds,shoes,0
+573,Urban Gyro,cafe,0
+574,34th Ave W & W Armour St,bus_stop,0
+575,Amazon Hub Locker,parcel_locker,0
+576,Zen Dental Center,dentist,0
+577,Lucy's Corner,restaurant,0
+578,Edgar Martinez Dr S & Occidental Ave S,bus_stop,0
+579,Jefferson St & Broadway,bus_stop,0
+580,UW Bike Locker Location 31,bicycle_parking,0
+581,13th Ave S & S Bailey St,bus_stop,0
+582,Mission to Seafarers,place_of_worship,0
+583,Classical KING FM 98.1,studio,0
+584,Superbig Superheroes Management,office,0
+585,The Stanton,building,1
+586,6th Ave W & W Smith St,bus_stop,0
+587,Sugar Plum Day Spa,beauty,0
+588,Alpine Physical Therapy,doctors,0
+589,My Nail Bar,beauty,0
+590,Exchange Building,commercial,1
+591,Citydog! Club,pet,0
+592,Zobel,restaurant,0
+593,Hounds Abound Dog Daycare,pet,0
+594,US Post Office Station #111,post_office,0
+595,Stop and Shop,second_hand,0
+596,Joseph Vance Building,building,1
+597,Turabi Rug Gallery,carpet,0
+598,Japonessa,restaurant,0
+599,Dave Niehaus Statue,artwork,0
+600,Seattle Sun Tan,beauty,0
+601,Seattle PrintWorks,copyshop,0
+602,Om Culture,leisure,0
+603,NE 65th St & 35th Ave NE,bus_stop,0
+604,Break Point,artwork,0
+605,Tropical Tan,beauty,0
+606,George Washington,artwork,0
+607,Seattle Reproductive Medicine,clinic,0
+608,Green Lake Shade Plaza Arch,artwork,0
+609,Eastlake Hair,hairdresser,0
+610,Jimmy's on Broadway,restaurant,0
+611,Bol,restaurant,0
+612,Northeast Cleaners,dry_cleaning,0
+613,Tin Lizzie Lounge,bar,0
+614,Harold's Lighting,interior_decoration,0
+615,Domani,restaurant,0
+616,Pacific Commercial Building (Building 8),building,1
+617,Metro Auto Rebuild,car_repair,0
+618,Little Free Pantry,social_facility,0
+619,"Kemly Electric, Inc.",office,0
+620,Atlantic Street Pizza,restaurant,0
+621,Poke Lover,restaurant,0
+622,UW Bike Locker Location 37,bicycle_parking,0
+623,triton,delivery_locker,0
+624,An Equal And Opposite Reaction,artwork,0
+625,Hudson Building,building,1
+626,NE 45th St & 20th Ave NE,bus_stop,0
+627,eVgo,charging_station,0
+628,Fibromialgia Clinic,doctors,0
+629,The Masonry,pub,0
+630,S Jackson St & 23rd Ave S,bus_stop,0
+631,Slate Coffee Roasters,cafe,0
+632,Vino Verite,alcohol,0
+633,Ars Obscura,craft,0
+634,Silver Seas Yachts,boat,0
+635,Fred Hutchinson Cancer Research Center,research_institute,1
+636,Bright Horizons Interbay,childcare,0
+637,S Jackson St & 8th Ave S,bus_stop,0
+638,23rd Ave & E Cherry St,bus_stop,0
+639,Bebop Waffle Shop,bakery,0
+640,Skal Beer Hall,pub,0
+641,Queen Anne Ave N & W Mercer St,bus_stop,0
+642,The Electric Boat Company (West),building,1
+643,Full Throttle Bottles,bar,0
+644,The Humphrey,building,1
+645,Acupuncture & Disability Research Center,doctors,0
+646,Bamboo Thai Cuisine,restaurant,0
+647,Broderick Building,building,1
+648,The Olive and Grape,restaurant,0
+649,Seattle Marina,leisure,1
+650,Caffe Migliore,cafe,0
+651,Laurel Village Community Center,community_centre,1
+652,Le Panier Very French Bakery,bakery,0
+653,Fine Arts Italy,art,0
+654,Old Fauntleroy School (Sec. C),building,1
+655,Edward Jones,office,0
+656,Drink Books,books,0
+657,Chrome Industries,clothes,0
+658,Pacific Commercial Building,building,1
+659,Paranormal Pie,fast_food,0
+660,Meridian Ave N & N 115th St,bus_stop,0
+661,Open Flight Studio,leisure,0
+662,Wallingford Laundromat,laundry,0
+663,Kaladi Brothers Coffee,cafe,0
+664,Century Square Garage,parking,0
+665,E Union St & 16th Ave,bus_stop,0
+666,A La Mode Pies,bakery,0
+667,E Madison St & 18th Ave,bus_stop,0
+668,Madrona Dr & E Olive St,bus_stop,0
+669,Abmeyer & Wood Fine Art,art,0
+670,Airport Way S & S Royal Brougham Way,bus_stop,0
+671,Herkimer Coffee - Ravenna,cafe,0
+672,Meet The Moon,restaurant,0
+673,Electrical Abuse,artwork,0
+674,4th Ave NE & NE 65th St,bus_stop,0
+675,Señor Moose,restaurant,0
+676,Toyoda Sushi,restaurant,0
+677,Ballard Food Bank,social_facility,0
+678,Willamette Dental Group,dentist,0
+679,Liberty Bank Building (Section G),building,1
+680,Hill's Barbershop,hairdresser,0
+681,15th Ave NW & NW 65th St,bus_stop,0
+682,Good Guys Pizza,restaurant,0
+683,FedEx Box,post_box,0
+684,The Stanton - Block 4,building,1
+685,Beach Dr SW & Atlas Pl SW,bus_stop,0
+686,Rainier Ave S & S Bayview St,bus_stop,0
+687,9th Ave & Alder St,bus_stop,0
+688,Rachel's Ginger Beer - University Village,bar,0
+689,Sound Credit Union,bank,0
+690,Career Link School,school,0
+691,Umpqua Bank,Banks & Credit Unions,0
+692,Siamonto Jewelers,jewelry,0
+693,Pine St & 2nd Ave,bus_stop,0
+694,Blue Sky Cleaners,dry_cleaning,0
+695,Whole Foods Market Distribution Center,office,0
+696,Emmanuel Bible Church,place_of_worship,0
+697,The Shop Agora,cafe,0
+698,Yen Wor Village,restaurant,0
+699,Modern Machine,office,0
+700,Building 1 - Blk. 3,office,1
+701,Foster Wellness,office,0
+702,Little Free Library,public_bookcase,0
+703,1st Ave S & Yesler Way,bus_stop,0
+704,1000 Second Avenue - Blk. 4,building,1
+705,Hyatt Regency Seattle - Block 4,hotel,1
+706,Little Free Library,public_bookcase,0
+707,Puget Sound Plaza,building,1
+708,Little Water Cantina,restaurant,0
+709,Mission,restaurant,0
+710,Exchange Building (Sec. E),commercial,1
+711,Jibe Espresso Bar,cafe,0
+712,Kaleidoscope School,kindergarten,0
+713,Accusmile Denture,dentist,0
+714,Canon,bar,0
+715,28th Ave NW & NW 90th St,bus_stop,0
+716,King's Barbecue House,fast_food,0
+717,Wing Dome,restaurant,0
+718,Grand Central - Blk. 2,building,1
+719,FedEx Office,copyshop,0
+720,Little Free Library,public_bookcase,0
+721,Virginia St & 6th Ave,bus_stop,0
+722,Ferry Noodle House,restaurant,0
+723,Ivar's Acres of Clams,restaurant,0
+724,Fred Hutchinson Cancer Research Center - Block 5,research_institute,1
+725,B9 Architects,office,0
+726,The Alexis Royal Sonesta Hotel Seattle - Block 3,hotel,1
+727,Chase,bank,0
+728,15th Ave NE & NE 80th St,bus_stop,0
+729,Bartell Drugs,pharmacy,0
+730,Washington Management Company Inc.,office,0
+731,Amazon.com Stackhouse (Building 5),office,1
+732,Tsonqua (Totem),artwork,0
+733,Rudy's Barbershop,hairdresser,0
+734,Tripod Coffee,Coffee & Tea,0
+735,Nickerson St & Warren Ave N,bus_stop,0
+736,Magnolia Professional Building,commercial,1
+737,W Nickerson St & 8th Ave W,bus_stop,0
+738,E.T.G. Coffee,cafe,0
+739,Seattle Cigar & Tobacco,tobacco,0
+740,Unlimited,hairdresser,0
+741,E Union St & 27th Ave,bus_stop,0
+742,Michael Farrell Jeweler,jewelry,0
+743,The Crumpet Shop,cafe,0
+744,Fourth and Madison Building,building,1
+745,Wexley School for Girls,office,0
+746,Hammer Auto Rebuild,car_repair,0
+747,Goldsmith Building - Court in the Square,building,1
+748,Urban Reclamations,furniture,0
+749,Westlake Station,subway_entrance,0
+750,Tilikum Place Cafe,cafe,0
+751,10th Ave E & E Miller St,bus_stop,0
+752,Jordan Building (West),building,1
+753,BECU,atm,0
+754,Caffe Ladro,cafe,0
+755,Tobaccorner,tobacco,0
+756,Unicorn Bar,bar,0
+757,Fogan Cocina Mexicana,restaurant,0
+758,Martial Arts Supplies & Equip Asia Gifts,sports,0
+759,Green Lake Library,library,1
+760,Halcyon Brewing Company,pub,0
+761,Zeeks Pizza - North Queen Anne Fremont,restaurant,0
+762,MotoShed,motorcycle_repair,0
+763,Chan Seattle,restaurant,0
+764,Corgiat Building - Block 5,building,1
+765,Dexter Horton Building,building,1
+766,Manna Teriyaki,restaurant,0
+767,Frye Apartments - Blk. 2,building,1
+768,PCC Community Markets,office,0
+769,Little Free Library,public_bookcase,0
+770,Universal Tours,office,0
+771,Blue Tulip Tailoring,tailor,0
+772,Bethel Ethiopian Church of Seattle,place_of_worship,0
+773,Pergola At Waiting For The Interurban,artwork,0
+774,Potbelly,fast_food,0
+775,Pink Bee,restaurant,0
+776,Subway,Sandwiches,0
+777,The Old County,pub,0
+778,Vik Condominiums Parking Lot,parking,0
+779,FLUTTER Studios,studio,0
+780,Britt's Pickles,deli,0
+781,ExtraMile,convenience,0
+782,Roche Bobois,furniture,0
+783,Hasegawa Dentistry,dentist,0
+784,Dick's Drive-In - Holman Road,restaurant,0
+785,Bale Breaker Yonder Taproom,pub,0
+786,Game Plan Fitness Studio,leisure,0
+787,Scheuerman Block (Bld. 1),building,1
+788,West Elevator,elevator,0
+789,The Eddy,artwork,0
+790,Trinity Christ Memorial Baptist Church,place_of_worship,0
+791,Pie Bar,bar,0
+792,Miller Paint,paint,0
+793,E Madison St & 15th Ave,bus_stop,0
+794,Rainy Pass Repair,outdoor,0
+795,Kaiser Permanente Northgate Medical Center,clinic,1
+796,Rodda Paint,paint,0
+797,Washington Wild,office,0
+798,Kingdome Deli,deli,0
+799,Harvard Avenue School,school,0
+800,Coyote North,arts_centre,0
+801,Twice Sold Tales,books,0
+802,The London Plane,cafe,0
+803,Retreat,cafe,0
+804,Dexter Ave N & Mercer St,bus_stop,0
+805,ExtraMile,convenience,0
+806,Rudy's Barber Shop,hairdresser,0
+807,Crown Hotel Building - Blk. 4,building,1
+808,inSpa,beauty,0
+809,Amazon.com Dawson - Block 5,office,1
+810,Phinney Ridge Eyecare,doctors,0
+811,Ocean Greens Gear & Glass,cannabis,0
+812,Terrace St & 5th Ave,bus_stop,0
+813,Green Lake Community Center (East),community_centre,1
+814,Zig Zag Cafe,cafe,0
+815,35th Ave NE & NE 123rd St,bus_stop,0
+816,Ravenna Office Building,office,1
+817,Top Pot Doughnuts,cafe,0
+818,2120,restaurant,0
+819,Gyro Stop,Mediterranean,0
+820,U.S. Courthouse,courthouse,1
+821,Little Duck,restaurant,0
+822,Xpress Tax Services,office,0
+823,Tagla Cafe,restaurant,0
+824,NE 75th St & 44th Ave NE,bus_stop,0
+825,Gilmore Apartments,building,1
+826,1111 Third Avenue,building,1
+827,Marseille,bar,0
+828,D'Ambrosio Gelato,ice_cream,0
+829,Batch 206 Distillery,bar,0
+830,Lakeside Ave S & S Lane St,bus_stop,0
+831,Rainier Ave S & S Edmunds St,bus_stop,0
+832,GameStop,video_games,0
+833,Seattle Pops,popcicles,0
+834,3111 Building (South),commercial,1
+835,Chief Seattle,artwork,0
+836,Pioneer Square Hotel,building,1
+837,Hertz Car Rental,car_rental,0
+838,Manning's & Son Upholstery,furniture,0
+839,N Northgate Way & Stone Ave N,bus_stop,0
+840,Aurora Ave N & Prospect St,bus_stop,0
+841,15th Ave E & E Galer St,bus_stop,0
+842,N 35th St & Carr Pl N,bus_stop,0
+843,Joyale Seafood Restaurant,restaurant,0
+844,Woodlawn Ave NE & Sunnyside Ave N,bus_stop,0
+845,Juicvana,cafe,0
+846,Ace Barber Shop,hairdresser,0
+847,Caffe Ladro,cafe,0
+848,NE 45th St & 7th Ave NE,bus_stop,0
+849,Greenwood Ave N & N 76th St,bus_stop,0
+850,The MILL,leisure,0
+851,the Mambo,artwork,0
+852,Spiceup Szechuan Cuisine,restaurant,0
+853,Center Table,restaurant,0
+854,Bistro Shirlee,restaurant,0
+855,St. Charles/Rector Hotel,building,1
+856,49th Ave SW & SW Edmunds St,bus_stop,0
+857,Martin L King Jr Way S & S Othello St,bus_stop,0
+858,Nina McLemore,clothes,0
+859,Express Mortgage Services,office,0
+860,Costco Tire Center,tyres,0
+861,C. C. Filson Company,clothes,0
+862,QFC Pharmacy #872,waste_basket,0
+863,Korean Tofu House,restaurant,0
+864,Five Star Autos,car,0
+865,Dexter Station - Block 2,commercial,1
+866,Eastlake Ave E & E Allison St,bus_stop,0
+867,Trophy Cupcakes,confectionery,0
+868,Leif Erikson,artwork,0
+869,Cadence Construction,office,0
+870,Heritage Distilling Co.,bar,0
+871,Datza,leisure,0
+872,Citydog! Club,veterinary,0
+873,Cashew,restaurant,0
+874,48th Ave SW & SW Findlay St,bus_stop,0
+875,Sleepers in Seattle,furniture,0
+876,Food Mart,convenience,0
+877,Serendipity,cafe,0
+878,10th Ave W & W Fulton St,bus_stop,0
+879,19th Avenue Salon,bicycle_parking,0
+880,Pier 56,building,1
+881,HomeSmart Real Estate Associates,office,0
+882,Monkey Bridge,restaurant,0
+883,Belltown Brewing,pub,0
+884,Endodontic Solutions,dentist,0
+885,KOMO Plaza West - Block 4,building,1
+886,Three 9 Lounge,bar,0
+887,The Habit Burger Grill,fast_food,0
+888,Commune Yoga,leisure,0
+889,Jimmy John's,fast_food,0
+890,Northfield Block (Bld. 6),building,1
+891,The Salon@Snapdoodle,hairdresser,0
+892,Carter Subaru Ballard,car,0
+893,5th Ave NE & NE 80th St,bus_stop,0

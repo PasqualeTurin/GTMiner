@@ -1,0 +1,341 @@
+,e_name,e_category,e_type
+0,NAB,bank,0
+1,Wang Wang Dumpling,restaurant,0
+2,Kookaï,clothes,0
+3,Romo Thai,restaurant,0
+4,Southern Cross Station,bicycle_rental,0
+5,Mercadante,restaurant,0
+6,Luka Hair Studio,hairdresser,0
+7,The Little Rabbit Cafe,cafe,0
+8,Parkwood Community Hub,community_centre,1
+9,Pharmacy Select,pharmacy,0
+10,Optiplex Eyecare,healthcare,0
+11,Reece,bathroom_furnishing,0
+12,Answer the Call,historic,0
+13,Officeworks,stationery,0
+14,iSpicy,restaurant,0
+15,Bare Body,office,0
+16,Flight Centre,travel_agency,0
+17,Djangos Bar and Grill,bar,0
+18,Brimbank Community and Civic Centre,townhall,1
+19,Chemist Warehouse,pharmacy,0
+20,Splash N Dash,laundry,0
+21,PhysioChoice Frankston,healthcare,0
+22,Briar Hill Milk Bar,convenience,0
+23,Lime Leaf,restaurant,0
+24,Salvation Army,clothes,0
+25,The Second Blessing,convenience,0
+26,Carlton Fish & Chips,fast_food,0
+27,Phở Hiền,restaurant,0
+28,Anthony Beale Reserve,bus_stop,0
+29,Brioche by Philip,bakery,0
+30,Vapiano,restaurant,0
+31,Melbourne Collins Street West Post Shop,post_office,0
+32,Osteopath,doctors,0
+33,Australian Catholic University/Victoria Parade,bus_stop,0
+34,Fran's Bakery,bakery,0
+35,Noodle Corner,restaurant,0
+36,RTRP,office,0
+37,Law Institute of Victoria Limited,office,0
+38,Monash Hotel,pub,0
+39,Cirelli & Co.,restaurant,0
+40,QT' Kitchen,restaurant,0
+41,Home Consortium South Morang,mall,1
+42,Snowflake Laundry and Linen Services,laundry,0
+43,Zee Mobi,mobile_phone,0
+44,Mortgage Choice,office,0
+45,PM Partners,office,0
+46,Egglab,restaurant,0
+47,Cream,hairdresser,0
+48,Regency,chemist,0
+49,Ma-Long Kitchen,restaurant,0
+50,Maxmore,health_food,0
+51,East Meets West Vietnamese Restaurant,restaurant,0
+52,Smith's Cakes & Aquilana Pasticceria,bakery,0
+53,Charles Pharmacy,pharmacy,0
+54,Pho 24,restaurant,0
+55,Core Dental,dentist,0
+56,InLanguage Boutique,language_school,0
+57,Rosebud Plaza,mall,1
+58,Woolworths,supermarket,0
+59,Above Water,artwork,0
+60,Chadstone Shopping Centre (Bay 9),bus_stop,0
+61,Greensborough Plaza,mall,1
+62,Wyndham Private Medical Centre,hospital,1
+63,Art Centre Car Park,parking,0
+64,Golden Orchids,restaurant,0
+65,ANZ,bank,0
+66,Aunty Kim's,events_venue,0
+67,Just Jeans,clothes,0
+68,FPC,office,0
+69,Chadstone Shopping Centre,mall,1
+70,Chirnside Homemaker Centre,mall,1
+71,The Reject Shop,variety_store,0
+72,"""Ercildoune"", Footscray Historical Society",historic,0
+73,Chadstone Shopping Centre,mall,1
+74,Coles,supermarket,0
+75,Decjuba,clothes,0
+76,Knox City Shopping Centre (Bay 9),bus_stop,0
+77,Footscray Station (Bay 18),bus_stop,0
+78,Public Toilets,toilets,0
+79,Harding Street Medical Centre,doctors,0
+80,Henry's Place,cafe,0
+81,Powder Magazine Footscray,historic,0
+82,Kyoto Cafe,cafe,0
+83,John Cesters,butcher,0
+84,Indian Rogan Josh,restaurant,0
+85,The University of Melbourne Burnley Campus - Block 3,university,1
+86,Boundary Street,bus_stop,0
+87,Epworth Camberwell (East),hospital,1
+88,Your Jeweller,craft,0
+89,NAB,atm,0
+90,Consular Agency of France,office,0
+91,Haigh's Chocolates,confectionery,0
+92,Forty Winks,bed,0
+93,Springvale Shopping Centre,mall,1
+94,Coin Laundromat,laundry,0
+95,Melbourne Museum,museum,1
+96,Rice Workshop,restaurant,0
+97,Port Melbourne Town Hall - Blk. 3,townhall,1
+98,Tokyo Hot,restaurant,0
+99,Dryburgh Street/Shiel Street,bus_stop,0
+100,H&R Block,office,0
+101,National Homes Agent,office,0
+102,Montague Street/City Road,bus_stop,0
+103,The Northern Hospital - Block 4,hospital,1
+104,Alfred Hospital,hospital,1
+105,Subway,fast_food,0
+106,Ra-men Bankara,restaurant,0
+107,SmartPark Melbourne Central,parking,0
+108,Access Business Centres,office,0
+109,The Mall,bus_stop,0
+110,Alchemy Brewing,pub,0
+111,Quanjude Chinese Restaurant,restaurant,0
+112,Ali Baba Kebab Palace,fast_food,0
+113,Heyday Hong Kong Cafe,restaurant,0
+114,Springvale Shopping Centre (Section A),mall,1
+115,Redibank,atm,0
+116,Royal Melbourne Hospital Royal Park/Poplar Road,bus_stop,0
+117,Pandora,jewelry,0
+118,O'Connor Street Corral,bicycle_parking,0
+119,Cellarbrations,alcohol,0
+120,Hop Nation,pub,0
+121,Parkiteer,bicycle_parking,0
+122,ACCA coffee cart,cafe,0
+123,iSell Group,office,0
+124,Station St/Bridge St,bus_stop,0
+125,Vicious and Delicious,restaurant,0
+126,Lyre Bird,viewpoint,0
+127,Journal Canteen,cafe,0
+128,"All Saints Anglican Church, Clayton",place_of_worship,0
+129,Lazy Moe,restaurant,0
+130,Greensborough Plaza - Block 2,mall,1
+131,Adidas,sports,0
+132,Gasworks Theatre,theatre,0
+133,VBA Victorian Bridge Association,office,0
+134,WHSmith,newsagent,0
+135,Ear & Hearing Australia,hearing_aids,0
+136,E dumpling,restaurant,0
+137,Treasury Gardens corner Spring Street and Wellington Parade,information,0
+138,Cellarbrations At Victoria Market,alcohol,0
+139,Nathan Dorevitch Lawyers,office,0
+140,TGI Friday's,restaurant,0
+141,Mabu Mabu,restaurant,0
+142,Merlo Coffee Roasters,coffee,0
+143,T.D. Mixed Milkbar,convenience,0
+144,Wyndham Private Medical Centre (Building 9),hospital,1
+145,Mont De Lancey Historic Homestead,attraction,1
+146,Pepperills Cafe,cafe,0
+147,Takla Motors,car_repair,0
+148,HomeCo (Sec. H),mall,1
+149,Daniels Donuts,fast_food,0
+150,Royal Eatery,restaurant,0
+151,Golf Clearance,sports,0
+152,Albert Street/Plenty Road,bus_stop,0
+153,Lowes,clothes,0
+154,Chirnside Park SC (Bay 3),bus_stop,0
+155,Parkwood Community Hub (West),community_centre,1
+156,JB Hi-Fi,electronics,0
+157,United,fuel,0
+158,Tsukino Shizuku,restaurant,0
+159,Somerville Shopping Centre (Section H),mall,1
+160,Koko Black,cafe,0
+161,Islamic Museum of Australia,museum,1
+162,Watermark,restaurant,0
+163,Ringwood North Shopping Centre - Block 3,mall,1
+164,Eureka Skydeck 88,attraction,0
+165,Kuu Cafe + Japanese Kitchen,restaurant,0
+166,Howard Dawson Reserve,leisure,0
+167,Barkly's Kitchen,restaurant,0
+168,7-Eleven,fuel,0
+169,Hairport 1,hairdresser,0
+170,Fitnesskick@Flemington,leisure,0
+171,Naked Upstairs,bar,0
+172,JB Hi-Fi,electronics,0
+173,Macpac,outdoor,0
+174,Brimbank Community and Civic Centre - Block 5,townhall,1
+175,South Yarra Arcade (Sec. H),mall,1
+176,"2,3",elevator,0
+177,Islamic Museum of Australia - Block 5,museum,1
+178,Axil Coffee Roasters,cafe,0
+179,Westpac,bank,0
+180,Dumplings and Tea co.,cafe,0
+181,Lucieer Court,bus_stop,0
+182,Macpac,outdoor,0
+183,Controlled Chaos Weightlifting,leisure,0
+184,Joe Taylor,bar,0
+185,The Pines Shopping Centre,mall,1
+186,Heirloom,restaurant,0
+187,Capulous & co.,cafe,0
+188,Fitzroy Lotto & News,newsagent,0
+189,Treelife,office,0
+190,Rochester Castle Hotel,pub,0
+191,Burnt Bridge SC/Maroondah Hwy,bus_stop,0
+192,Melbourne Museum (East),museum,1
+193,Giblin Eunson Library,library,0
+194,Saltwater Coast Lifestyle Centre (South),community_centre,1
+195,Frankston Bazaar,interior_decoration,0
+196,Body Treatment,massage,0
+197,Sydney Road Lucky Newsagency,newsagent,0
+198,Victoria Deli,cafe,0
+199,Butcher Shop Cafe,cafe,0
+200,iBean,cafe,0
+201,Zagame,car,0
+202,South Yarra Arcade,mall,1
+203,Kaèfei,cafe,0
+204,Black Cat,cafe,0
+205,Knox Vet Clinic,veterinary,0
+206,The Pines Shopping Centre (Sec. G),mall,1
+207,Saltwater Coast Lifestyle Centre,community_centre,1
+208,Apollo Parkways Shopping Centre,mall,1
+209,Seddon Thai Massage,massage,0
+210,Westpac,bank,0
+211,Royal Melbourne Hospital - Royal Park Campus - Blk. 4,hospital,1
+212,Stone Hotel,pub,0
+213,Campaspe Crescent/Patterson Avenue,bus_stop,0
+214,Home Consortium South Morang - Blk. 5,mall,1
+215,Public Toilets,toilets,0
+216,Father's Office,pub,0
+217,Kingsville Barber Lounge,hairdresser,0
+218,Waterman,office,0
+219,Ali's jumbo kebabs,fast_food,0
+220,Hair of the Dog,pet,0
+221,Trades Hall/Lygon Street,bus_stop,0
+222,Thirsty Camel,alcohol,0
+223,AKA Studio Yoga,leisure,0
+224,Big W,department_store,0
+225,Costia Hot Bread,fast_food,0
+226,Chemist Warehouse,chemist,0
+227,Bay Street Dental Group,dentist,0
+228,HomeCo,mall,1
+229,Magic Dollar,variety_store,0
+230,Hana Bakery,bakery,0
+231,Commonwealth Bank,bank,0
+232,Water Plaza,information,0
+233,Magpie Milk Bar,convenience,0
+234,Health Link Cafe,cafe,0
+235,Yesil Irmak Take Away Food,fast_food,0
+236,View Docklands,restaurant,0
+237,Tax Matters & Business Affairs,office,0
+238,Anchor BMX,bicycle,0
+239,Dandenong Road,bus_stop,0
+240,Public Toilets,toilets,0
+241,Games Workshop,video_games,0
+242,Port Melbourne Town Hall,townhall,1
+243,All Star Car Sales,car,0
+244,Australian Red Cross Op Shop,charity,0
+245,HSBC,atm,0
+246,Slater and Gordon,office,0
+247,Woolworths,fuel,0
+248,Wishart Street Playground,leisure,0
+249,Runway Room,massage,0
+250,7-Eleven,convenience,0
+251,Spontini,restaurant,0
+252,The Northern Hospital,hospital,1
+253,Hungry Jacks,fast_food,0
+254,Public Toilets,toilets,0
+255,Vinnies Coburg,charity,0
+256,Hume Street/Studley Park Road,bus_stop,0
+257,Laurent Boulangerie Patisserie,cafe,0
+258,Edmund FitzGibbon,historic,0
+259,Epworth Camberwell,hospital,1
+260,Backline Studios,studio,0
+261,CS Square Shopping Centre (Sec. G),mall,1
+262,Domino's Pizza,fast_food,0
+263,Ringwood North Shopping Centre,mall,1
+264,Rosebud Plaza,mall,1
+265,Violetta Bridal,clothes,0
+266,Dalton Street,bus_stop,0
+267,BMW Melbourne,car,0
+268,Ace Vape,alcohol,0
+269,CS Square Shopping Centre,mall,1
+270,Market Street/Flinders Street,bus_stop,0
+271,Coburg Post Shop,post_office,0
+272,Mr Hobson,restaurant,0
+273,Centre Com SuperStore,computer,0
+274,Eat Pizza,fast_food,0
+275,Essendon Fields Central (Building 3),mall,1
+276,Spleen Central,bar,0
+277,Supercheap Auto,car_parts,0
+278,Lee Galanis,office,0
+279,IGA X-press,supermarket,0
+280,Mont De Lancey Historic Homestead,attraction,1
+281,Ebdale Street,bus_stop,0
+282,Sofitel Hotel Carpark,parking,0
+283,Ngọc Lan,hairdresser,0
+284,Former Pentridge Prison Site,historic,1
+285,Leigh Hair & Beauty,hairdresser,0
+286,BWS,alcohol,0
+287,Dorset Rd/Chandler Rd,bus_stop,0
+288,Somerville Shopping Centre,mall,1
+289,Body Fit Training,leisure,0
+290,Big Mama,restaurant,0
+291,Woolworths,supermarket,0
+292,Cucinetta,restaurant,0
+293,South Base Stone,historic,0
+294,Woodridge Pre-school,kindergarten,0
+295,GM Speciality Vehicles,car,0
+296,Ciel,cafe,0
+297,Caramel Cafe,cafe,0
+298,Nicholson Street Mini Market,convenience,0
+299,Coles,supermarket,0
+300,Alfred Hospital - Blk. 3,hospital,1
+301,Roll'd,fast_food,0
+302,Two Birds Cafe,cafe,0
+303,Subway,fast_food,0
+304,H&R Block,office,0
+305,Tarneit Community Learning Centre (Bld. 1),community_centre,1
+306,The University of Melbourne Burnley Campus,university,1
+307,Ferntree Nails & Beauty,beauty,0
+308,Dunlop Avenue/Studley Park Road,bus_stop,0
+309,Reformation Pilates,leisure,0
+310,Brunswick Baptist Church,place_of_worship,0
+311,Airlie Women's Clinic,clinic,0
+312,Former Pentridge Prison Site (North),historic,1
+313,Tonka,restaurant,0
+314,Essendon Fields Central,mall,1
+315,The Washing Spot,laundry,0
+316,Gloria Jean's,cafe,0
+317,Barkly Street Corral,bicycle_parking,0
+318,Elgin Street/Lygon Street,bus_stop,0
+319,Saddle Up,pet,0
+320,Dusk,candles,0
+321,Tarneit Community Learning Centre,community_centre,1
+322,2BScene Design,office,0
+323,Delilah Hair Studio,hairdresser,0
+324,Royal Melbourne Hospital - Royal Park Campus,hospital,1
+325,Little Peacock,cafe,0
+326,7-Eleven,fuel,0
+327,Antoinette Boulevard,bus_stop,0
+328,Chirnside Homemaker Centre (Bld. 4),mall,1
+329,TAB,bookmaker,0
+330,Breizoz Crêperie,restaurant,0
+331,Búl,clothes,0
+332,Coles,supermarket,0
+333,Story Building,art,0
+334,Chemist Warehouse,chemist,0
+335,Norsiah's Kitchen,restaurant,0
+336,Apollo Parkways Shopping Centre,mall,1
+337,Fruit & Veggie Shop,greengrocer,0
+338,Nicholson Street/Princes Street,bus_stop,0
+339,Matsuzaki,restaurant,0

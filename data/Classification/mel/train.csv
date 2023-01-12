@@ -1,0 +1,568 @@
+,e_name,e_category,e_type
+0,Kebabs R Yummy,fast_food,0
+1,Stop 140: Fraser Street,bus_stop,0
+2,Swop Clothing Exchange,clothes,0
+3,Java Cafe,cafe,0
+4,Commonwealth Bank,atm,0
+5,RC Garage,hobby,0
+6,Coco Charlie,clothes,0
+7,Kealba Community Center,community_centre,1
+8,Highpoint Shopping Centre,mall,1
+9,Clearwater Car Wash,car_wash,0
+10,Clarinda Community Centre,community_centre,1
+11,Eastland (West),mall,1
+12,The Clayton Hotel (West),hotel,1
+13,Monticello Pizza,restaurant,0
+14,Real Thai,massage,0
+15,Melbourne Boulevard Pharmacy,pharmacy,0
+16,Merri Business Park/Normanby Avenue,bus_stop,0
+17,Kodiak Club,bar,0
+18,Edward Meller,clothes,0
+19,Northland Shopping Centre,mall,1
+20,JB Hi-Fi,electronics,0
+21,IGA,supermarket,0
+22,Cardboard,waste_basket,0
+23,Spoke n Sprocket,bicycle,0
+24,Limnos Butcher,butcher,0
+25,Ta Quang Huy & Associates,office,0
+26,Legacy,charity,0
+27,The BIndery,craft,0
+28,Glen Eira Town Hall (Sec. F),townhall,1
+29,The Falafel Man,fast_food,0
+30,Chapman & Bailey,craft,0
+31,Yarra Bottlemart,alcohol,0
+32,The Hive,mall,1
+33,Vaphilia,tobacco,0
+34,Snag Stand,fast_food,0
+35,Grace Baptist Community Church,place_of_worship,0
+36,Nova Pharmacy,pharmacy,0
+37,Poolman Street,bus_stop,0
+38,7-Eleven,fuel,0
+39,Blue Stool,cafe,0
+40,Ganton Ct/Tortice Dr,bus_stop,0
+41,idea box,office,0
+42,Waterdale Bake House,bakery,0
+43,Glen Eira Town Hall,townhall,1
+44,Beach Street Family Medicine,doctors,1
+45,Crown Entertainment Complex,casino,1
+46,WoodsYard,wine,0
+47,Eastland,mall,1
+48,Piedimonte's IGA,supermarket,0
+49,Australian Meat Company,butcher,0
+50,St. Eustathios Church,place_of_worship,0
+51,White Lady Funerals,funeral_directors,0
+52,Capelli,hairdresser,0
+53,Churches of Christ Theological College (Section C),university,1
+54,Jay Jays,clothes,0
+55,Domino's,fast_food,0
+56,Cellarbrations,alcohol,0
+57,Sweet Pea Florist,florist,0
+58,Mecca Bros. Fruit & Vegetables,supermarket,0
+59,Greater Knox Family Practice (Building 4),doctors,1
+60,Pronto Pizza,fast_food,0
+61,Rifle Club Hotel,pub,0
+62,Arbory Afloat,bar,0
+63,Golden Prawn,restaurant,0
+64,Middle Park Community Centre,community_centre,1
+65,"Peter Khalil MP, Federal member for Wills",office,0
+66,Master Dry Cleaners,dry_cleaning,0
+67,Greater Knox Family Practice,doctors,1
+68,SaltWater Community Centre,community_centre,1
+69,Three Phase Rehearsal Studios - Blk. 5,studio,1
+70,Metcher's Dry Cleaning,dry_cleaning,0
+71,Ren Dao,restaurant,0
+72,Family fishing lake,leisure,0
+73,Waverley Gardens Dental Clinic,dentist,0
+74,Toilet 46,toilets,0
+75,Once Upon A Slime,artwork,0
+76,Buckets and Spades for kids,clothes,0
+77,7-Eleven,fuel,0
+78,Abbotsford Convent,attraction,1
+79,On the Mend,clothes,0
+80,Bank of Melbourne,bank,0
+81,Aria,restaurant,0
+82,Liquorland,alcohol,0
+83,Ecovantage,office,0
+84,New Quay Buffet,restaurant,0
+85,Biggin Scott,office,0
+86,George's Milk Bar,convenience,0
+87,Shiraaz,restaurant,0
+88,ACS,office,0
+89,VisionPro,craft,0
+90,Early Settler,furniture,0
+91,Batman’s Hill on Collins (West),hotel,1
+92,Turf Bar,pub,0
+93,Sandringham Yacht Club,information,0
+94,Organic Wholefoods,supermarket,0
+95,F45 Training,leisure,0
+96,Dollar Curtains & Blinds,curtain,0
+97,Whitehorse Gardens,bus_stop,0
+98,Shanghai Street Xiaolongbao And Dumpling,restaurant,0
+99,Ducati City,motorcycle,0
+100,Collingwood Confidential,brothel,0
+101,Centre for Nanofabrication/Wellington Rd,bus_stop,0
+102,St Vincent's Underground Car Park,parking,0
+103,Tatts,lottery,0
+104,Foodworks,supermarket,0
+105,Spirit Of India,restaurant,0
+106,Queen St Flower Co,florist,0
+107,Pines Learning & Activity Centre,community_centre,1
+108,Frank A Boday,office,0
+109,Pt. Leo Estate (Section C),craft,1
+110,4Cyte Pathology,clinic,0
+111,Da Guido La Pasta,restaurant,0
+112,Sun Theatre - Block 4,cinema,1
+113,Champ Street,bus_stop,0
+114,Back In Motion,healthcare,0
+115,Public Toilets,toilets,0
+116,ITFutures,office,0
+117,Coles,supermarket,0
+118,Langwarrin Shopping Centre (West),mall,1
+119,Bellvue Street/Blyth Street,bus_stop,0
+120,Eltham Ridge Pharmacy,chemist,0
+121,Westland Furniture,furniture,0
+122,Splendid Kitchen,kitchen,0
+123,Sir Charles,cafe,0
+124,Subway,fast_food,0
+125,Ultratune,car_repair,0
+126,Insignia on Flinders,pub,0
+127,Code Black,cafe,0
+128,City of Hope,place_of_worship,0
+129,Royal Children's Hospital (Section A),hospital,1
+130,Epworth Richmond Hospital,hospital,1
+131,Sosumi Japanese Restaurant,restaurant,0
+132,St Kilda Road Post Shop,post_office,0
+133,Pioneer Walk Rock Monument,historic,0
+134,Epic Centre - Block 2,office,1
+135,Baxter Institute (Automotive and Bakery Campus) - Block 2,college,1
+136,TAB,bookmaker,0
+137,Middle Park Community Centre (Bld. 2),community_centre,1
+138,St James' Op-Shop,second_hand,0
+139,Mantra St Kilda Road,hotel,1
+140,An Nam,restaurant,0
+141,Mantra St Kilda Road (Building 5),hotel,1
+142,TAP831,restaurant,0
+143,St Thomas Anglican Church,place_of_worship,0
+144,Belgian Beer Cafe,pub,0
+145,Minh Hưng,seafood,0
+146,William Angliss Institute,college,1
+147,Marcella,restaurant,0
+148,IKEA EV chargers,charging_station,0
+149,Brunswick Mess Hall,restaurant,0
+150,McNamara Avenue/Fullarton Road,bus_stop,0
+151,Kavanagh Street/Southbank Boulevard,bus_stop,0
+152,Dunning Kruger,bar,0
+153,Fitzroy Business Centre,post_office,0
+154,Dia Tang Vuong,artwork,0
+155,Mini Me Salon,hairdresser,0
+156,Underground carpark toilets,toilets,0
+157,Law Bookshop,books,0
+158,Port Jackson Press Print Room,art,0
+159,Australia Post - Batman LPO,post_office,0
+160,Monash Vale Early Learning Centre,kindergarten,0
+161,District 5 Bistro,restaurant,0
+162,Cafe Flo,cafe,0
+163,Roadhaven Cafe,cafe,0
+164,Rubiki,cafe,0
+165,Free Choice,tobacco,0
+166,Bank of Melbourne,atm,0
+167,Birrarung Wilam (Common Ground),artwork,0
+168,Caltex Ascot Vale,fuel,0
+169,Epic Centre,office,1
+170,Mr McCracken Bar and Restaurant,restaurant,0
+171,Melbourne Pathology,clinic,0
+172,Clarinda Community Centre (West),community_centre,1
+173,The Hive - Block 2,mall,1
+174,BP,fuel,0
+175,366 Specialist Nedical Centre,clinic,0
+176,Mycelium Studios,arts_centre,0
+177,KFC,fast_food,0
+178,Zinc,cafe,0
+179,ZiNG Pop Culture,collector,0
+180,Holy Trinity Church/High Street,bus_stop,0
+181,Auski,sports,0
+182,Blackhearts & Sparrows,alcohol,0
+183,Willocks Lawyers,office,0
+184,Vic Street Gallery,gallery,0
+185,Monash University Post Office,post_office,0
+186,Nasi Lemak House,restaurant,0
+187,Lagom Gelateria,ice_cream,0
+188,Kett Street,bus_stop,0
+189,Thomas Gannan,furniture,0
+190,Stevie,cafe,0
+191,Sandringham Youth Club,leisure,1
+192,Monty's Noodles,fast_food,0
+193,South Melbourne Market (Bld. 9),marketplace,1
+194,Plaza Medical Centre,clinic,0
+195,Federici Bistro,restaurant,0
+196,State Theatre,theatre,0
+197,Kensington Lawyers,office,0
+198,Westfield Knox Shopping Centre (South),mall,1
+199,Optus,mobile_phone,0
+200,By Korea,restaurant,0
+201,Stick It Grill,fast_food,0
+202,Fu Lu,restaurant,0
+203,St Vincent's Hospital (Building 5),hospital,1
+204,7-Eleven,convenience,0
+205,Bayside Shopping Centre,mall,1
+206,Grand Hotel,pub,0
+207,Hello Mellow,office,0
+208,Target,department_store,0
+209,Babbo,cafe,0
+210,Access Medical Centre,clinic,0
+211,Hoyts,cinema,0
+212,Waltzing Matilda Hotel,restaurant,0
+213,Passionate,restaurant,0
+214,Mehretina Cafe,cafe,0
+215,Stockade Avenue/Pentridge Boulevard,bus_stop,0
+216,Station Street Cafe,cafe,0
+217,Toothpicks,cafe,0
+218,eMaxx Computers,office,0
+219,Code Black Coffee,cafe,0
+220,Chirnside Park Shopping Centre,mall,1
+221,Public Toilets,toilets,0
+222,Williams Florist,florist,0
+223,Fogarty Ave,bus_stop,0
+224,Mai Tram Hair,hairdresser,0
+225,Midas,car_repair,0
+226,Nguyen hair salon,hairdresser,0
+227,Harold Street,bus_stop,0
+228,Brunswick Secondary College/Dawson Street,bus_stop,0
+229,Commonwealth Bank,bank,0
+230,Sandringham Yacht Club Marina,leisure,1
+231,Focus On Furniture,furniture,0
+232,The Old Raffles Place,restaurant,0
+233,TreasureStar,bar,0
+234,Westcare Medical Centre,clinic,1
+235,BWS,alcohol,0
+236,Refuel Café,cafe,0
+237,Ante Pavelić,artwork,0
+238,Liquorland Express,alcohol,0
+239,Croydon North Discount Pharmacy,pharmacy,0
+240,Churches of Christ Theological College,university,1
+241,Miah's Sambalicious,restaurant,0
+242,Marshall White,office,0
+243,Knead Bakers,cafe,0
+244,Public Toilets,toilets,0
+245,NAB,bank,0
+246,Zambrero,fast_food,0
+247,Preston Clothing,tailor,0
+248,State Library of Victoria,library,1
+249,Apple Store,electronics,0
+250,Seasons Botanic Gardens Melbourne,hotel,1
+251,The Kensington Fish Shop,fast_food,0
+252,Sunshine Central Medical Clinic,healthcare,0
+253,Fresh seafood wholesalers,seafood,0
+254,Cavallini,cafe,0
+255,North Melbourne Shoe Repairs,craft,0
+256,Aussie Curry Lovers,restaurant,0
+257,Owen Dixon Chambers West,office,1
+258,Commonwealth Bank,bank,0
+259,Dumpling 88,restaurant,0
+260,Post Office Pizza Bar,fast_food,0
+261,Royal Children's Hospital,hospital,1
+262,Baxter Institute (Automotive and Bakery Campus),college,1
+263,MMS,restaurant,0
+264,Mitchell McCabe Mensware,clothes,0
+265,Eltham Ridge Medical Centre,doctors,1
+266,Gifts With Love Express,variety_store,0
+267,Emerald Hill Library,library,0
+268,Clash City Hair,hairdresser,0
+269,Pizza Hut,restaurant,0
+270,RMIT University (South),university,1
+271,Edan Motors,car_repair,0
+272,Sun Theatre,cinema,1
+273,Ian Potter Centre: NGV Australia - Block 5,museum,1
+274,Ringwood Square Barber Shop,hairdresser,0
+275,Kritamos,restaurant,0
+276,Australian College of Hair Design And Beauty,college,0
+277,Healesville Sanctuary (Section F),zoo,1
+278,Bridgestone,tyres,0
+279,Laksa King,restaurant,0
+280,Bike Zone,bicycle,0
+281,Essé,clothes,0
+282,ST. Ali,cafe,0
+283,La Trobe Street,bus_stop,0
+284,William Angliss Institute - Block 3,college,1
+285,McDonald's,fast_food,0
+286,Hungry Jacks,fast_food,0
+287,North Ringwood Pre School,bus_stop,0
+288,Secret Kitchen,restaurant,0
+289,Mai's Florist,florist,0
+290,Priceline Pharmacy,pharmacy,0
+291,Jellis Craig,office,0
+292,The Classic Pizza House,fast_food,0
+293,Suits,clothes,0
+294,Subway,fast_food,0
+295,Mobile Up,mobile_phone,0
+296,Honorary Consul of the Federal Republic of Germany,office,0
+297,Victoria Street,bus_stop,0
+298,Montmorency Newsagency,newsagent,0
+299,The Protein Factory,nutrition_supplements,0
+300,Highpoint Shopping Centre (Building 9),mall,1
+301,The Lame Duck,bar,0
+302,Commonwealth Bank,atm,0
+303,Tokyo Hair design,hairdresser,0
+304,Nyala African Restaurant,restaurant,0
+305,Le Pine,funeral_directors,0
+306,Pilates,leisure,0
+307,Cromwell Street/Victoria Parade,bus_stop,0
+308,Intralot,office,0
+309,Telstra Air,telephone,0
+310,Tsindos Greek Restaurant,restaurant,0
+311,JD Sports,sports,0
+312,Woolworths,supermarket,0
+313,Cafe Notturino,restaurant,0
+314,Premier Health Partners,doctors,0
+315,Clarinda Library,library,0
+316,Street Organics,cafe,0
+317,Sandringham Yacht Club Marina - Block 3,leisure,1
+318,Hamer,artwork,0
+319,McDonald's,fast_food,0
+320,Wandin North War Memorial,historic,0
+321,Local Cellars,alcohol,0
+322,Catch 22 Men's Wear,clothes,0
+323,SGR Audio,office,0
+324,Barry Street Lunch Bar,fast_food,0
+325,National Tiles,craft,0
+326,Lolo's Takeaway,fast_food,0
+327,Oakleigh Station,bus_stop,0
+328,Subscape Aquarium,pet,0
+329,Abbotsford Convent,attraction,1
+330,Matrix Fitness,dojo,0
+331,Hunters' Roots,cafe,0
+332,made in Japan,furniture,0
+333,Wandin Veterinary Clinic,veterinary,0
+334,Langwarrin Shopping Centre,mall,1
+335,Westpac,atm,0
+336,Hargrave-Andrew Library,library,1
+337,X Stone,craft,0
+338,Bay City Nissan,car,0
+339,"""The Sandy"" Hotel",pub,0
+340,Carpark pedestrian entrance,parking_entrance,0
+341,Cellarbrations,alcohol,0
+342,Waterdale Fish & Chips,fast_food,0
+343,LaunchPad Evolve,office,0
+344,City Residential,office,0
+345,Ground Cafe,cafe,0
+346,Sunshine Station (Bay 12),bus_stop,0
+347,Berth 3,ferry_terminal,0
+348,Pt. Leo Estate,craft,1
+349,Ocean View Cafe,cafe,0
+350,Woodstock,cafe,0
+351,State Library of Victoria,library,1
+352,McKillops,restaurant,0
+353,ANZ,bank,0
+354,Epworth Richmond Hospital (Sec. B),hospital,1
+355,Red Spice Road,restaurant,0
+356,Parkiteer,bicycle_parking,0
+357,Croydon North MLOC Football Club,sport,0
+358,Dan Murphy's,alcohol,0
+359,mycar Tyre & Auto,car_repair,0
+360,Pause Cafe,cafe,0
+361,Flinders Street Station Pharmacy,pharmacy,0
+362,Pines Learning & Activity Centre (Bld. 7),community_centre,1
+363,EB Games,video_games,0
+364,Aesop,beauty,0
+365,Kinfolk,cafe,0
+366,Crown Entertainment Complex (North),casino,1
+367,Shine Car Wash,car_wash,0
+368,Dumplings 2 Go,restaurant,0
+369,Ian Potter Centre: NGV Australia,museum,1
+370,Lucky 7 Eight on Miles,convenience,0
+371,Malaysian Consulate General in Melbourne,office,0
+372,Save the Children Op Shop,charity,0
+373,Envirowash,car_wash,0
+374,Vapiano,restaurant,0
+375,Wild Life Bakery,cafe,0
+376,Fireflies,restaurant,0
+377,Three Phase Rehearsal Studios,studio,1
+378,Zaytoune,cafe,0
+379,Rustic Thai Kitchen,restaurant,0
+380,The Crib,clothes,0
+381,U3A Ringwood,office,0
+382,LaunchPad Orbit,office,0
+383,Caltex,fuel,0
+384,Pegasus Apart'Hotel (East),hotel,1
+385,St Scholastica's Catholic Church,place_of_worship,0
+386,Commuters Café & Bar,cafe,0
+387,BWS,alcohol,0
+388,Step Ahead Shoes,shoes,0
+389,Magic Cuisine,fast_food,0
+390,Upsize,cafe,0
+391,Bar Commercio,cafe,0
+392,Revival Centre Church,place_of_worship,0
+393,Knox City Shopping Centre (Bay 1),bus_stop,0
+394,Solway Large Guys,clothes,0
+395,Elliott St/Chauvel St,bus_stop,0
+396,East Ringwood Reserve Playground,leisure,0
+397,St Vincent's Hospital,hospital,1
+398,Kealba Community Center - Block 4,community_centre,1
+399,Lance Dixon Service,car_repair,0
+400,Spacelane Mechanical Repairs,car_repair,0
+401,Bar Nacional,bar,0
+402,Qiao Xiang Yuan,restaurant,0
+403,Queensberry Street/Lygon Street,bus_stop,0
+404,Taxi,taxi,0
+405,Bicycle Lockers,bicycle_parking,0
+406,St Kilda West Licensed Post Office,post_office,0
+407,A Bite of China Hot Pot,restaurant,0
+408,Jeanswest,clothes,0
+409,Creative Cubes Co. (Sec. C),office,1
+410,myki,vending_machine,0
+411,Journey Early Learning Centre,childcare,0
+412,e.g.etal Jewellery,jewelry,0
+413,Qmara,supermarket,0
+414,The Pint of Milk,cafe,0
+415,Knox City Shopping Centre (Bay 2),bus_stop,0
+416,Courthouse Theatre,theatre,0
+417,Boyd Community Hub (Bld. 1),public_building,1
+418,Cornish Library,library,0
+419,Jenny's Hot Bread,fast_food,0
+420,Đồi Xanh Quán,restaurant,0
+421,Grayling Cres/Kalinda Rd,bus_stop,0
+422,Creelman's Pharmacy,pharmacy,0
+423,Tresselle Hairdressing,hairdresser,0
+424,Australia Post,post_office,0
+425,South Melbourne Market,marketplace,1
+426,Keilor Downs Surgery,hospital,0
+427,Best Friends,pet,0
+428,Master Drycleaners,dry_cleaning,0
+429,Coburg Library,library,0
+430,Infocomm Pty Ltd,office,0
+431,Big W,department_store,0
+432,Healesville Sanctuary,zoo,1
+433,Brosa,craft,0
+434,Muffin Break,cafe,0
+435,Meadow Street/Elizabeth Street,bus_stop,0
+436,HD Academic Tuition,office,0
+437,Marcs,clothes,0
+438,James Cook University,university,0
+439,RMIT University,university,1
+440,Public Toilets,toilets,0
+441,Vaucluse Hotel,pub,0
+442,Yes Optus,telecommunication,0
+443,Pegasus Apart'Hotel,hotel,1
+444,The Print Place,copyshop,0
+445,MGIC,clinic,0
+446,Joe's Pizza Square,fast_food,0
+447,Flemington Library,library,0
+448,Bob Jane T-Marts,tyres,0
+449,Barbershop,hairdresser,0
+450,Eltham Ridge Medical Centre - Block 3,doctors,1
+451,Lygon Street Christian Chapel,place_of_worship,0
+452,NAB,atm,0
+453,Sunshine Station (Bay 9),bus_stop,0
+454,Khazana,restaurant,0
+455,Coventry Street/St Kilda Road,bicycle_rental,0
+456,Denim Smith,clothes,0
+457,Eyetech Optometrists,optician,0
+458,SaltWater Community Centre - Block 4,community_centre,1
+459,Sushi Izakaya bar,fast_food,0
+460,Officeworks,stationery,0
+461,Forty Winks,bed,0
+462,Mr. Banks,bar,0
+463,UBar,pub,0
+464,Northside Records,music,0
+465,Hoyts,cinema,0
+466,Somerville and district panels,car_repair,0
+467,Corner Convenience Store,convenience,0
+468,Newcastle Street/Bell Street,bus_stop,0
+469,Fitzroy Toy Library,toys,0
+470,Owen Dixon Chambers West,office,1
+471,Medical History Museum,museum,0
+472,The Clayton Hotel,hotel,1
+473,St Mary's Coptic Orthodox Church,place_of_worship,0
+474,Hoa Nghiem Primary School,school,0
+475,Zone Bowling,sport,0
+476,Perth Avenue Milk Bar,convenience,0
+477,Hargrave-Andrew Library (Sec. G),library,1
+478,Seed Heritage,clothes,0
+479,Westside Fish and Chips,fast_food,0
+480,Babalu's Pizza & Pasta,fast_food,0
+481,Parliament,subway_entrance,0
+482,Hughes St/Francis St,bus_stop,0
+483,Foodworks,supermarket,0
+484,Pictures and Pages,books,0
+485,Wicked Campers Melbourne,caravan,0
+486,Njoy,fast_food,0
+487,zouki,restaurant,0
+488,Hotham Hill Licensed Post Office,post_office,0
+489,Spieledeluxe,games,0
+490,Westfield Knox Shopping Centre,mall,1
+491,Lance Dixon Bentley,car,0
+492,Seasons Botanic Gardens Melbourne (Sec. G),hotel,1
+493,Half Moon Cafe,cafe,0
+494,McDonald's,fast_food,0
+495,Bravissimi,kindergarten,0
+496,Newport Community Hub,community_centre,1
+497,Daffney’s,pharmacy,0
+498,Coles,supermarket,0
+499,Public Toilets,toilets,0
+500,Grill'd,fast_food,0
+501,Gown for a Night,clothes,0
+502,Creative Cubes Co.,office,1
+503,Newport Community Hub (East),community_centre,1
+504,Batman’s Hill on Collins,hotel,1
+505,Melbourne University Eyecare,optician,0
+506,"Queens Bridge, Southbank",bicycle_rental,0
+507,Bridge St/Bay St 234 - Garden City,bus_stop,0
+508,Bentley the Butler,dry_cleaning,0
+509,Eyes On,optician,0
+510,Crystal Heart,gift,0
+511,Woolworths Metro,supermarket,0
+512,181 Bar Restaurant,restaurant,0
+513,Northland Shopping Centre - Blk. 2,mall,1
+514,Beach Street Family Medicine (Section F),doctors,1
+515,Barkers,restaurant,0
+516,Jacks Barbers,hairdresser,0
+517,Bayside Shopping Centre (Bld. 4),mall,1
+518,Australia Post Parcel Lockers,vending_machine,0
+519,Consulate General of Italy in Melbourne,office,0
+520,Stand Up Cafe,cafe,0
+521,Clark Rubber - Chirnside Park,swimming_pool,0
+522,Seedling,cafe,0
+523,Bull Run,restaurant,0
+524,Yummy Pho,restaurant,0
+525,Greenwood Park Playground,leisure,0
+526,Supple,office,0
+527,Sidewalk Soul,shoes,0
+528,Ohana Hairdressing,hairdresser,0
+529,Schnitz,fast_food,0
+530,Westcare Medical Centre - Block 5,clinic,1
+531,Himes Group,office,0
+532,Fenix,restaurant,0
+533,Neuw Denim,clothes,0
+534,Subway,fast_food,0
+535,Petbarn,Pet Stores,0
+536,Arbory Bar & Eatery,bar,0
+537,O-Bento,restaurant,0
+538,recycle boutique,clothes,0
+539,Greensborough Road,bus_stop,0
+540,"Ofuroya, the Japanese Bath House",public_bath,0
+541,Chaf's Cafe,cafe,0
+542,IGA,convenience,0
+543,McDonald's,fast_food,0
+544,Bubba Pizza,restaurant,0
+545,Double Dutch Coffee Bar,cafe,0
+546,Lecco Pizzeria,restaurant,0
+547,Kebabs On Bell,fast_food,0
+548,Tiamo Hair Design,hairdresser,0
+549,Law Library,library,0
+550,Sandringham Youth Club (Building 5),leisure,1
+551,Sandringham Baptist Church,place_of_worship,0
+552,South Melbourne Life Saving Club,fast_food,0
+553,Woolworths,supermarket,0
+554,181 Domain,cafe,0
+555,Royal Australasian College of Surgeons/Victoria Parade,bus_stop,0
+556,Melview Drive Playground,leisure,0
+557,Ashley Street Medical Centre,doctors,0
+558,Ilana Car Seat Covers,car_parts,0
+559,Seed Heritage,clothes,0
+560,Pie Face,cafe,0
+561,Minuteman Press,copyshop,0
+562,Christ Church Kensington,place_of_worship,0
+563,Zacs Pet Supplies,pet,0
+564,BWS,alcohol,0
+565,Chirnside Park Shopping Centre (Bld. 2),mall,1
+566,Boyd Community Hub,public_building,1

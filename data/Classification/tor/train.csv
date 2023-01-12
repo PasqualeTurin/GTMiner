@@ -1,0 +1,497 @@
+,e_name,e_category,e_type
+0,All Star Wing & Ribs,sports,0
+1,Mr. Sub,fast_food,0
+2,Consulate General of Hungary,office,0
+3,May Street,bus_stop,0
+4,Lansdowne,subway_entrance,0
+5,Galleria on the Park,condo,0
+6,FiGO,restaurant,0
+7,The Oxley,Gastropubs; Bars; British; Nightlife; Pubs; Restaurants,1
+8,Godiva Chocolatier,chocolate,0
+9,Dragon City,Shopping; Shopping Centers,1
+10,RBC,bank,0
+11,da Vinci School,school,0
+12,Enco Auto Trim,car_repair,0
+13,Evans Real Estate,office,0
+14,Bike Share Toronto,bicycle_rental,0
+15,Fardin Fashion,clothes,0
+16,Booster Juice,fast_food,0
+17,Saje,cosmetics,0
+18,Parkway Mall,Shopping Centers; Shopping,1
+19,Harry Rosen,clothes,0
+20,Riverdale Farm,zoo,0
+21,Bagel & Co.,fast_food,0
+22,Mont Blanc,jewelry,0
+23,Liberty Village Eye Care,optician,0
+24,Meet You,fast_food,0
+25,Commercial Vision,office,0
+26,Start Auto Electric Ltd.,car_repair,0
+27,Second Cup,cafe,0
+28,Paws’ World,pet,0
+29,Canada's National Ballet School,Event Planning & Services; Arts & Entertainment; Dance Schools; Specialty Schools; Venues & Event Spaces; Opera & Ballet; Education,1
+30,Sleep Country - Blk. 5,Home & Garden; Shopping; Furniture Stores; Mattresses,1
+31,Gravitypope,clothes,0
+32,Petro-Canada,fuel,0
+33,The Eye Exam Place,optician,0
+34,Zenith Shoes,shoes,0
+35,Eglinton West Law Office,office,0
+36,Dufferin Mall,Shopping Centers; Shopping,1
+37,Aspen Cleaners,laundry,0
+38,Cedarbrae Mall,Shopping; Shopping Centers,1
+39,Allied Properties REIT,office,0
+40,Parkview Convenience,convenience,0
+41,Domino's,fast_food,0
+42,East Liberty Medical Centre,doctors,0
+43,Popeyes,fast_food,0
+44,Nordstrom,Women's Clothing; Fashion; Men's Clothing; Shopping; Department Stores,1
+45,Barrio Cerveceria,restaurant,0
+46,revitasize,fast_food,0
+47,Veghed Fresh Bar,fast_food,0
+48,Bathurst Street,bus_stop,0
+49,Consulate General of India,office,0
+50,Phantom Outlet,clothes,0
+51,Salon Miraj,hairdresser,0
+52,Sleep Country,bed,0
+53,Newport Fish & Seafood,seafood,0
+54,Museum,subway_entrance,0
+55,Tim Hortons,cafe,0
+56,Pet Valu,pet,0
+57,Chatr,mobile_phone,0
+58,Bergo,gift,0
+59,Bosnar Centre for Health,healthcare,0
+60,OK2 Diner,restaurant,0
+61,Shuter Street,bus_stop,0
+62,The Strathcona Hotel,Hotels & Travel; Bars; Event Planning & Services; Hotels; Pubs; Nightlife,1
+63,Toronto Hippo Tours,tours,0
+64,Green's Antiques,antiques,0
+65,Paradise Print,copyshop,0
+66,York Street;Bay Street;Yonge Street,motorway_junction,0
+67,Duffy's Diner,restaurant,0
+68,Correnti Cigars,tobacco,0
+69,Dave's Hot Chicken,restaurant,0
+70,Market 707,Shopping Centers; Shopping; Tapas/Small Plates; Restaurants,1
+71,Jump,restaurant,0
+72,Shoppers Drug Mart,pharmacy,0
+73,918 Bathurst (Section B),Shopping; Event Planning & Services; Art Galleries; Arts & Entertainment; Education; Performing Arts; Venues & Event Spaces,1
+74,Tim Hortons,cafe,0
+75,Centennial College,Colleges & Universities; Education,1
+76,Sports Medicine Rehabilitation,healthcare,0
+77,"Toronto Star, Toronto Sun",vending_machine,0
+78,Centennial College,Colleges & Universities; Education,1
+79,Mii Sandwich,fast_food,0
+80,Bendale Bible Chapel,place_of_worship,0
+81,Aaron's,furniture,0
+82,Toronto Head & Neck Clinic,clinic,0
+83,Sansotei Ramen,restaurant,0
+84,McDonald's,fast_food,0
+85,Anna Bella,clothes,0
+86,Cedarbrae Mall - Block 3,Shopping; Shopping Centers,1
+87,Refelli,clothes,0
+88,Happy Coffee and Wine,cafe,0
+89,8th and Main,clothes,0
+90,Canadian Football League,office,0
+91,Odds and Ends,second_hand,0
+92,Robarts Library,Public Services & Government; Libraries,1
+93,Healthy Planet,nutrition_supplements,0
+94,The Carbon Bar,bar,0
+95,Uncle Tetsu's Japanese Angel Cafe,cafe,0
+96,Market 707 - Blk. 5,Shopping Centers; Shopping; Tapas/Small Plates; Restaurants,1
+97,Dollarama,variety_store,0
+98,Instacoin ATM,atm,0
+99,Tony's Place,hairdresser,0
+100,Spa-Nails,beauty,0
+101,Blush Nail Bar,beauty,0
+102,Good Future,clothes,0
+103,Mastermind Toys,toys,0
+104,The Mercantile,deli,0
+105,Riverdale Park West (Sec. E),Parks; Dog Parks; Active Life; Swimming Pools,1
+106,Chris Jerk,restaurant,0
+107,Feiyang Holistic Center,massage,0
+108,Value Mobile,mobile_phone,0
+109,Mount Sinai Hospital,Medical Centers; Hospitals; Health & Medical,1
+110,Tim Hortons,cafe,0
+111,All Star Driving School North York,driving_school,0
+112,Asian Gourmet,fast_food,0
+113,The Ten Spot,beauty,0
+114,Robo Cafe,vending_machine,0
+115,Muddy George,clothes,0
+116,Starbucks,cafe,0
+117,Wellesley Convenience,convenience,0
+118,L'Amoreaux C.I. swimming pool,leisure,0
+119,Brioche Dorée,bakery,0
+120,Haircut,hairdresser,0
+121,Summit Natural Health Centre,healthcare,0
+122,Thaï Express,fast_food,0
+123,Canadian Tire,car_repair,0
+124,Comfort Space Spa,spa,0
+125,Sidney Smith Hall,Colleges & Universities; Education,1
+126,Shoes for You,shoes,0
+127,CJ Health Care College,office,0
+128,"Bart Habrowski, D.D.",dentist,0
+129,Maple Leaf Computers & Cellphone,computer,0
+130,Frenchie’s Doughnuts,bakery,0
+131,Pinnacle Centre,Home Services; Real Estate; Apartments,1
+132,Faema,electronics,0
+133,Shoppers Drug Mart (Sec. H),Shopping; Drugstores,1
+134,Bell,mobile_phone,0
+135,Joe Fresh,Children's Clothing; Shopping; Fashion; Women's Clothing; Men's Clothing,0
+136,Gooderham Building,Landmarks & Historical Buildings; Public Services & Government,1
+137,CF Toronto Eaton Centre,Shopping Centers; Shopping,1
+138,Lawrence Mart,convenience,0
+139,Jim’s Place,apartment,0
+140,Food Depot,deli,0
+141,Vogue Nails,beauty,0
+142,Chocolate Charm,chocolate,0
+143,Chatter,cafe,0
+144,Vaticano Ristorante,restaurant,0
+145,Birchmount Road at Canadian Road,bus_stop,0
+146,Gaspard,clothes,0
+147,Bike Share Toronto,bicycle_rental,0
+148,Family Dental Centre Dr. J. Paul Phillips,dentist,0
+149,Hyatt Regency Toronto (West),Event Planning & Services; Hotels; Hotels & Travel,1
+150,CN Tower (Building 2),Landmarks & Historical Buildings; Public Services & Government; Arts & Entertainment; Observatories,1
+151,Cinnabon,fast_food,0
+152,City Fried Chicken & Pizza,restaurant,0
+153,NeoHome,houseware,0
+154,The Broadview Hotel,Hotels & Travel; Event Planning & Services; Hotels,1
+155,Bluenotes,clothes,0
+156,Soho Metropolitan Hotel,Hotels & Travel; Apartments; Hotels; Home Services; Real Estate; Event Planning & Services,1
+157,The Home Depot (Section H),Home & Garden; Fashion; Nurseries & Gardening; Building Supplies; Hardware Stores; Home Services; Shopping; Department Stores; Appliances,1
+158,Lavelle,restaurant,0
+159,Si Espresso Bar,bar,0
+160,Ellesmere Animal Hospital,veterinary,0
+161,Canada's National Ballet School (Sec. E),Event Planning & Services; Arts & Entertainment; Dance Schools; Specialty Schools; Venues & Event Spaces; Opera & Ballet; Education,1
+162,Morning Flowers,vacant,0
+163,Xing Futang,restaurant,0
+164,CN Tower,Landmarks & Historical Buildings; Public Services & Government; Arts & Entertainment; Observatories,1
+165,Hong Fook Mental Health Organization,office,0
+166,Starbucks,cafe,0
+167,City Hall Public Library,Libraries; Public Services & Government,0
+168,Toronto Star,vending_machine,0
+169,Front Street West,bus_stop,0
+170,Finch Avenue at Highway 27,bus_stop,0
+171,Yorkdale Shopping Centre,Shopping Centers; Shopping,1
+172,Platinum Barbers,hairdresser,0
+173,La Luz de Cristo,place_of_worship,0
+174,Fido,mobile_phone,0
+175,Daio,restaurant,0
+176,Ed Mirvish Theatre,theatre,0
+177,Hilary MacMillan Studio,clothes,0
+178,The Broadview Hotel (Sec. E),Hotels & Travel; Event Planning & Services; Hotels,1
+179,Light Showers,fountain,0
+180,Nathan Phillips Square,Active Life; Landmarks & Historical Buildings; Public Services & Government; Parks,1
+181,Caplansky's Deli,deli,0
+182,The Hogtown Vegan,restaurant,0
+183,Sushi Zone,restaurant,0
+184,The Strathcona Hotel (East),Hotels & Travel; Bars; Event Planning & Services; Hotels; Pubs; Nightlife,1
+185,Geox,shoes,0
+186,Columbia Dental,dentist,0
+187,Starbucks,cafe,0
+188,Coin Laundry,laundry,0
+189,Caribbean Queen,fast_food,0
+190,Mount Sinai Hospital,Medical Centers; Hospitals; Health & Medical,1
+191,Mother Earth Centre,craft,0
+192,Charley's Steakery,fast_food,0
+193,B.A. & M Trading Ltd.,convenience,0
+194,Eglinton Station,bus_stop,0
+195,General Synod of the Anglican Church of Canada,office,0
+196,Mama Lee's Korean Kitchen,fast_food,0
+197,Bahn Mi Boys,fast_food,0
+198,Potato Skins,furniture,0
+199,3030,bar,0
+200,ServiceOntario,office,0
+201,Rainbow Electric,hairdresser_supply,0
+202,Pearle Vision,optician,0
+203,Neptune Drive at Rajah Street,bus_stop,0
+204,The Hogtown Vegan,restaurant,0
+205,Super Discount Store,discount,0
+206,Muncheez,fast_food,0
+207,Terminal Barber Shop,hairdresser,0
+208,Gooderham Building,Landmarks & Historical Buildings; Public Services & Government,1
+209,Annex Billiard Club,pub,0
+210,"Josh Matlow, City Councillor",office,0
+211,Snuggle Bugz,baby_goods,0
+212,Antonia Grocery,convenience,0
+213,Auleaf Cafe,cafe,0
+214,Vintage Thai,restaurant,0
+215,Queens Quay West & Lower Simcoe Street,bicycle_rental,0
+216,Warrarich Meats,fast_food,0
+217,Shoppers Drug Mart,Shopping; Drugstores,1
+218,City of Toronto - Downtown Toronto Social Services,social_services,0
+219,Bar Wellington,pub,0
+220,Naka Ima Movement Arts,leisure,0
+221,Shoppers Drug Mart,pharmacy,0
+222,Lebanon Express,restaurant,0
+223,MorsoMe,restaurant,0
+224,Pam's Roti,restaurant,0
+225,Oaks n' Acorns,kindergarten,0
+226,What A Bagel,fast_food,0
+227,Alice's Place,bar,0
+228,RE/MAX,office,0
+229,Bulk Food Centre,confectionery,0
+230,Dollarama,variety_store,0
+231,Bike Share Toronto,bicycle_rental,0
+232,Victory Sanctuary of Praise,place_of_worship,0
+233,Zipcar,car_sharing,0
+234,Angelique Flowers,florist,0
+235,Glamour One,clothes,0
+236,Milliken Park,Active Life; Parks,1
+237,Glass Monocle,optician,0
+238,Stellar Culinary Personnel,office,0
+239,Margis Pharmacy,pharmacy,0
+240,Wellesley Street West,bus_stop,0
+241,Gaia Natural Foods,health_food,0
+242,Sora Beauty Salon,hairdresser,0
+243,Purdys Chocolatier,chocolate,0
+244,Flair Cleaners,dry_cleaning,0
+245,Everything Vape,e-cigarette,0
+246,Red House Music Academy,music_school,0
+247,Curry Twist,restaurant,0
+248,City Hall Parking,parking_entrance,0
+249,Piazza Manna,fast_food,0
+250,Cineplex Cinemas Yonge-Dundas and VIP,cinema,0
+251,Articulations,art,0
+252,Yorkdale Shopping Centre (South),Shopping Centers; Shopping,1
+253,The Printing House,printing,0
+254,Stanley Park (Section E),Dog Parks; Active Life; Parks,1
+255,Queen Street Laundry,laundry,0
+256,Loblaws (Building 7),Food; Restaurants; Cafes; Grocery,1
+257,Revue Cinema,cinema,0
+258,Sleep Country,Home & Garden; Shopping; Furniture Stores; Mattresses,1
+259,Pizza Hut Express,fast_food,0
+260,For Lease,vacant,0
+261,Duke of Somerset,vacant,0
+262,Scarborough Buffet,restaurant,0
+263,Rexdale Dental,dentist,0
+264,Hart House Library,library,0
+265,"Cards, Gifts & Stationary",gift,0
+266,Rogers Centre (Section A),Arts & Entertainment; Stadiums & Arenas; Active Life; Landmarks & Historical Buildings; Public Services & Government; Baseball Fields,1
+267,Roti King,restaurant,0
+268,Coco,cafe,0
+269,Moxie's,restaurant,0
+270,Trattoria Leonardo,restaurant,0
+271,Optical Showcase,optician,0
+272,Rebel,nightclub,0
+273,Machino Cafe,cafe,0
+274,Toronto Hanin Community Services,office,0
+275,Centennial College - Blk. 4,Colleges & Universities; Education,1
+276,Anthony Passero Salon,hairdresser,0
+277,Mansueta Medical Garment Fitters,clothes,0
+278,Industrial and Commercial Bank of China,bank,0
+279,Arcana,hairdresser,0
+280,Warby Parker,optician,0
+281,Neptune Hair Salon,restaurant,0
+282,Pizza Pizza,fast_food,0
+283,Pumpernickel's,fast_food,0
+284,The Village Pharmacy,pharmacy,0
+285,bubbletease,fast_food,0
+286,Clandestino Wine Bar,bar,0
+287,CIBC,bank,0
+288,Davenport Road,bus_stop,0
+289,Yonge Street,bus_stop,0
+290,Midtown Med Spa Anti-Aging & Laser Skin Clinic,clinic,0
+291,Crave Grill House,restaurant,0
+292,WirelessWave,mobile_phone,0
+293,Milliken Park,Active Life; Parks,1
+294,Scotiabank,bank,0
+295,Pearle,vacant,0
+296,Ryerson University (East),Education; Colleges & Universities,1
+297,Nairn Avenue,bus_stop,0
+298,Cedarbrae Mall,Shopping; Shopping Centers,1
+299,Canada Post,post_office,0
+300,Scarborough Centre,subway_entrance,0
+301,Alcorn Hair,hairdresser,0
+302,Masjid Al Jannah,place_of_worship,0
+303,Dragon City,Shopping; Shopping Centers,1
+304,Grad Room,cafe,0
+305,IC Savings,bank,0
+306,Scarborough Centre Station,bus_stop,0
+307,Country Style,cafe,0
+308,Tropical Venue,restaurant,0
+309,Subway,fast_food,0
+310,The Portuguese Bake Shop,bakery,0
+311,Jarvis Street,bus_stop,0
+312,Greg's Ice Cream,fast_food,0
+313,Circle K,convenience,0
+314,The Beer Store,alcohol,0
+315,Service Canada,government_office,0
+316,Support For Lesbians & Gays,office,0
+317,Magic Noodle,restaurant,0
+318,CF Toronto Eaton Centre (Section E),Shopping Centers; Shopping,1
+319,Crescent Dental Health Clinic,dentist,0
+320,The Tailor & The Cleaner,dry_cleaning,0
+321,Roland & Romaine School of Dance,school,0
+322,Kajama,attraction,0
+323,Humber College Bus Terminal Platform 5,platform,0
+324,Nathan Phillips Square (North),Active Life; Landmarks & Historical Buildings; Public Services & Government; Parks,1
+325,Pinnacle Centre,Home Services; Real Estate; Apartments,1
+326,Glass Dreams,art,0
+327,Wine Rack,wine,0
+328,Pita-Q,fast_food,0
+329,McLaren McCann,office,0
+330,Union Station,Landmarks & Historical Buildings; Public Transportation; Public Services & Government; Transportation; Train Stations; Hotels & Travel,1
+331,Davenport Road,bus_stop,0
+332,Glen Village Family Dental,dentist,0
+333,Front Street East,bus_stop,0
+334,Arrowsmith School,school,0
+335,Nordstrom - Blk. 5,Women's Clothing; Fashion; Men's Clothing; Shopping; Department Stores,1
+336,Sure Choice Auto Service Centre,car_repair,0
+337,brand=Chatime,cafe,0
+338,Food Basics - Blk. 2,Food; Grocery,1
+339,Woodbine Racetrack - Blk. 4,Arts & Entertainment; Stadiums & Arenas,1
+340,Esso (Section C),Gas Stations; Automotive,1
+341,French Quarter Convenience & Grocery,convenience,0
+342,Laura,clothes,0
+343,Dee'tails Dog Grooming,pet_grooming,0
+344,Flxme,leisure,0
+345,Five Star Convenience,convenience,0
+346,Convenience.com,convenience,0
+347,Chatime,cafe,0
+348,Royal Ontario Museum,Shopping; Art Galleries; Arts & Entertainment; Museums,1
+349,Humber College,Books; Mags; Music & Video; Shopping; Bookstores; Colleges & Universities; Education,1
+350,Lalibela Restaurant,restaurant,0
+351,School,restaurant,0
+352,Fleck Dance Theatre,theatre,0
+353,Walking on a Cloud,shoes,0
+354,Benjamin Moore,paint,0
+355,Second Cup,cafe,0
+356,Paparazzi Kids,clothes,0
+357,Pho Chay 88,restaurant,0
+358,Rogers Centre,Arts & Entertainment; Stadiums & Arenas; Active Life; Landmarks & Historical Buildings; Public Services & Government; Baseball Fields,1
+359,Brookbanks Drive,bus_stop,0
+360,Sidney Smith Hall - Block 5,Colleges & Universities; Education,1
+361,Playa Cabana Taqueria,restaurant,0
+362,Support posts from demolished Gardiner Expressway,artwork,0
+363,Pizza Nova,fast_food,0
+364,Circle K,convenience,0
+365,Virgin Plus,mobile_phone,0
+366,7 Days Convenience,convenience,0
+367,Ark Army Surplus,outdoor,0
+368,LCBO,alcohol,0
+369,Upper Beach Health & Wellness,clinic,0
+370,Woodbine Racetrack,Arts & Entertainment; Stadiums & Arenas,1
+371,TD Canada Trust,bank,0
+372,In Tre Cafe,cafe,0
+373,Paws & Claws,pet,0
+374,Robarts Library - Blk. 4,Public Services & Government; Libraries,1
+375,Le Papillon on Front,restaurant,0
+376,Lucky Lucianos,fast_food,0
+377,Cell-Tech,mobile_phone,0
+378,Union Station,Landmarks & Historical Buildings; Public Transportation; Public Services & Government; Transportation; Train Stations; Hotels & Travel,1
+379,Soho Metropolitan Hotel (West),Hotels & Travel; Apartments; Hotels; Home Services; Real Estate; Event Planning & Services,1
+380,Moneris,office,0
+381,Post box,post_box,0
+382,Jane Central Pharmacy,pharmacy,0
+383,The Broadview Hotel,Hotels & Travel; Event Planning & Services; Hotels,1
+384,Comfort Zone,shoes,0
+385,Parkway Mall,Shopping Centers; Shopping,1
+386,Freshslice,fast_food,0
+387,Albert's Real Jamaican Foods,fast_food,0
+388,Bistro 422,bar,0
+389,Vapers on Bloor,vape,0
+390,Lotte Beauty Salon/Lotte Hair Salon,hairdresser,0
+391,Sushi Karu,restaurant,0
+392,Bloor Walk-in Clinic,clinic,0
+393,The Runner's Shop,sports,0
+394,CODA,bar,0
+395,Old City Hall,information,0
+396,M Boutique,clothes,0
+397,Royal LePage,office,0
+398,Riverdale Park West,Parks; Dog Parks; Active Life; Swimming Pools,1
+399,Ossington Stop,restaurant,0
+400,Great Art School of Music (GASM),music_school,0
+401,Thomas Cook / Confidence Travel,travel_agency,0
+402,Spadina Animal Hospital,veterinary,0
+403,Toronto Council Fire Native Cultural Centre,arts_centre,0
+404,Swiss Chalet,restaurant,0
+405,CN Tower,Landmarks & Historical Buildings; Public Services & Government; Arts & Entertainment; Observatories,1
+406,The Oxley,Gastropubs; Bars; British; Nightlife; Pubs; Restaurants,1
+407,Royal Ontario Museum (East),Shopping; Art Galleries; Arts & Entertainment; Museums,1
+408,Pop-Up art,unknown,0
+409,Optical Value,optician,0
+410,New York Fur,clothes,0
+411,Learner's Academy Driving School,driving_school,0
+412,Toronto City Hall,Landmarks & Historical Buildings; Public Services & Government,1
+413,Jewels by Koby,jewelry,0
+414,Lunsky Optometry,healthcare,0
+415,weewatch,office,0
+416,Ryerson University,Education; Colleges & Universities,1
+417,Ontario Conservatory of Music,musical_instrument,0
+418,Kitchen Table,supermarket,0
+419,Purba Furniture,furniture,0
+420,Food Basics,Food; Grocery,1
+421,I'll be seeing you...,restaurant,0
+422,918 Bathurst,Shopping; Event Planning & Services; Art Galleries; Arts & Entertainment; Education; Performing Arts; Venues & Event Spaces,1
+423,Clearly,optician,0
+424,Bell,mobile_phone,0
+425,Gateway Day Care Centre,childcare,0
+426,Meena's Linens,department_store,0
+427,Golden Thai,restaurant,0
+428,Dolce Bakery,bakery,0
+429,Esso,Gas Stations; Automotive,1
+430,National Bank,bank,0
+431,Tonic Eye Care & Vision Therapy,optician,0
+432,Dufferin Mall (Section C),Shopping Centers; Shopping,1
+433,Sana Footwear,shoes,0
+434,BLD Restaurant,restaurant,0
+435,Burgers n' Fries Forever,fast_food,0
+436,Milky's Cloud Room,cafe,0
+437,Nordstrom,Women's Clothing; Fashion; Men's Clothing; Shopping; Department Stores,1
+438,Dora Keogh,pub,0
+439,Sugar and Spice Childrens boutique,boutique,0
+440,Toronto City Hall - Blk. 5,Landmarks & Historical Buildings; Public Services & Government,1
+441,"Dr. Filipko Jarmila, DDS",dentist,0
+442,CF Toronto Eaton Centre,Shopping Centers; Shopping,1
+443,Freedom Mobile,mobile_phone,0
+444,The Oxley (West),Gastropubs; Bars; British; Nightlife; Pubs; Restaurants,1
+445,Bulk Barn,supermarket,0
+446,Hyatt Regency Toronto,Event Planning & Services; Hotels; Hotels & Travel,1
+447,Tam 88 Jewellery Design,jewelry,0
+448,VRPlayin,leisure,0
+449,Patient Networks,doctors,0
+450,Market 707,Shopping Centers; Shopping; Tapas/Small Plates; Restaurants,1
+451,Hot dog stand,fast_food,0
+452,Asia Delight,fast_food,0
+453,Kennedy Road,motorway_junction,0
+454,Little Nicky's Coffee,cafe,0
+455,Jack and Lil's,restaurant,0
+456,Planta Burger,restaurant,0
+457,Koodo,mobile_phone,0
+458,Glassbox Barbershop,hairdresser,0
+459,Shambhala Meditation Centre of Toronto,healthcare,0
+460,Toronto Public Library - Northern District,library,0
+461,Jimmie Simpson Park (Bld. 6),Active Life; Parks,1
+462,Canadore College - Stanford Scarborough Campus,college,0
+463,AnimeXtreme,anime,0
+464,Dr. M Staniszewski,dentist,0
+465,Canada's National Ballet School,Event Planning & Services; Arts & Entertainment; Dance Schools; Specialty Schools; Venues & Event Spaces; Opera & Ballet; Education,1
+466,iRepair.ca,mobile_phone,0
+467,Black Irish,pub,0
+468,Stanley Park,Dog Parks; Active Life; Parks,1
+469,The Orbit Room,bar,0
+470,Money Mart,money_lender,0
+471,Loblaws,Food; Restaurants; Cafes; Grocery,1
+472,Thai One On,restaurant,0
+473,Northumberland Street,bus_stop,0
+474,Parkway Mall - Blk. 2,Shopping Centers; Shopping,1
+475,Cali Mexican Grill,fast_food,0
+476,Demetres,restaurant,0
+477,International News,convenience,0
+478,Fairstone Financial,money_lender,0
+479,Jimmie Simpson Park,Active Life; Parks,1
+480,Dayton Self Storage,storage,0
+481,Yamaha Music School,musical_instrument,0
+482,The Dirty Bird Chicken + Waffles,fast_food,0
+483,Humber College (West),Books; Mags; Music & Video; Shopping; Bookstores; Colleges & Universities; Education,1
+484,Police entrance only,parking,0
+485,CTE Vapes,vape,0
+486,Sunrise Food Fair,convenience,0
+487,The Medicine Shoppe,pharmacy,0
+488,Computer Shop,computer,0
+489,The Home Depot,Home & Garden; Fashion; Nurseries & Gardening; Building Supplies; Hardware Stores; Home Services; Shopping; Department Stores; Appliances,1
+490,Fête Floral + Events,florist,0
+491,Dufferin Mall,Shopping Centers; Shopping,1
+492,Gardenview Convenience,convenience,0
+493,First Class Drones,office,0
+494,Dentists on Bloor,dentist,0
+495,Clay,restaurant,0

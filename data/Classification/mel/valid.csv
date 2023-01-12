@@ -1,0 +1,227 @@
+,e_name,e_category,e_type
+0,Bellbird Picnic Area,picnic_site,0
+1,Endota Spa,beauty,0
+2,Yah Yah's,bar,0
+3,ALDI,supermarket,0
+4,Mulqueeny Pharmacy,pharmacy,0
+5,Ibis Hotel Melbourne (Building 4),hotel,1
+6,Spice Treasure,restaurant,0
+7,United,fuel,0
+8,China Bar,restaurant,0
+9,Starbucks,cafe,0
+10,Miss Collins,bar,0
+11,Shoya,restaurant,0
+12,Universal Italian Restaurant & Function Venue,restaurant,0
+13,CAT-16,vending_machine,0
+14,Merlynston Milk Bar,convenience,0
+15,Sum Signs,office,0
+16,Tribal Rose,florist,0
+17,The Barbers Club,hairdresser,0
+18,Cafe Henkel,cafe,0
+19,Commonwealth Bank,atm,0
+20,ATM,atm,0
+21,VALID,office,0
+22,Di Bella Coffee,cafe,0
+23,Bay Beach Pizza and Pasta,fast_food,0
+24,Kagnaroo Korean Restaurant,restaurant,0
+25,Beku Gelato,ice_cream,0
+26,Xing Fu Tang,cafe,0
+27,Cafe Boutique,cafe,0
+28,Cosmetic Injection,beauty,0
+29,Urban Pedaler,bicycle,0
+30,Yarra Valley Cycles,bicycle,0
+31,Eyelash,beauty,0
+32,EcoLife Pharmacy,pharmacy,0
+33,Doc’s Liquor,alcohol,0
+34,Maurice Blackburn,office,0
+35,CommandFix,computer,0
+36,The Roy,bar,0
+37,South Wharf DFO (Section A),mall,1
+38,Hair and Body Workshop,hairdresser,0
+39,Reflexio Qualis,information,0
+40,Arcuri & Associates,office,0
+41,The Reject Shop,variety_store,0
+42,Vicky Melissas,pharmacy,0
+43,Coburg UFS Pharmacy,chemist,0
+44,The Watch Gallery,jewelry,0
+45,EnTHAIced,restaurant,0
+46,Newlands Estate LPO,post_office,0
+47,Kew Post Office,post_office,0
+48,Elegant Slax,clothes,0
+49,Petbarn,pet,0
+50,Chick-In,restaurant,0
+51,Hotel Ovolo (Bld. 3),hotel,1
+52,Peter Jackson,clothes,0
+53,Napier Street/Johnston Street,bus_stop,0
+54,Telstra,telephone,0
+55,Industry Bar Southbank,bar,0
+56,Drummond Street/Bell Street,bus_stop,0
+57,Quest - Block 5,hotel,1
+58,Yarra Ranges Animal Hospital,veterinary,0
+59,Commonwealth Bank,atm,0
+60,Charcoal Chicken,fast_food,0
+61,Hotel Ovolo,hotel,1
+62,Metery Road,bus_stop,0
+63,vasari,clothes,0
+64,Myki Machines,vending_machine,0
+65,Tokyo Maki,restaurant,0
+66,Oakleigh Market (Bld. 8),marketplace,1
+67,Dry Cleaners,laundry,0
+68,Crichton Avenue,bus_stop,0
+69,Rolld,restaurant,0
+70,Coles,supermarket,0
+71,Atticus Finch,bar,0
+72,Studley Park Boathouse,cafe,0
+73,Miami Hotel Melbourne - Blk. 3,hotel,1
+74,Specialist Espresso,coffee,0
+75,Cork & Chroma,arts_centre,0
+76,Bean Project,cafe,0
+77,The Co-op,books,0
+78,Reynaldo's Grills and Sizzles,restaurant,0
+79,Alpha Barbers,hairdresser,0
+80,Priceline Pharmacy,pharmacy,0
+81,Collins Street,bus_stop,0
+82,Grandview Hotel,pub,0
+83,Waterman,office,0
+84,Deakin University (Building 4),university,1
+85,Tasty Sub,cafe,0
+86,Basement Espresso,cafe,0
+87,Enware,craft,0
+88,Coles Express,fuel,0
+89,Coffee Rush,cafe,0
+90,William C.F. Almeida,historic,0
+91,Lost Angel,restaurant,0
+92,Harbour View Apartments,hotel,1
+93,Lilydale Village (Sec. G),mall,1
+94,Village Court,mall,1
+95,Red Scissors,hairdresser,0
+96,Rude Boy,fast_food,0
+97,Madras Banyan Tree,restaurant,0
+98,"Monash University, Clayton Campus - Blk. 5",university,1
+99,The Australian Lebanese Association of Victoria,office,0
+100,Delphi Bank,bank,0
+101,Bayside Police Station,police,0
+102,The Wharf Hotel,pub,0
+103,Coco Nails,beauty,0
+104,Oakleigh Market,marketplace,1
+105,Chemist Warehouse,pharmacy,0
+106,Michel's,pastry,0
+107,J Sushi Cafe,fast_food,0
+108,Port Melbourne Cricket Ground,bus_stop,0
+109,Weeboo Society of Australia,place_of_worship,0
+110,Red Rooster,fast_food,0
+111,North Melbourne Roast Chicken and Chips,fast_food,0
+112,The Great Southern Hotel (Building 9),hotel,1
+113,Thirsty Camel,alcohol,0
+114,Quest,hotel,1
+115,Victoria's Quality Fish and Chips,fast_food,0
+116,Choi's,restaurant,0
+117,Ampol,fuel,0
+118,Ausin Health,health_food,0
+119,Cannings Free Range Butchers,butcher,0
+120,Commonwealth Bank,bank,0
+121,ABC Southbank Centre,studio,1
+122,Pizza and Kebabs on Bell,restaurant,0
+123,Dental Hygene Centre,dentist,0
+124,Concrete Jungle,shoes,0
+125,Maniax – Axe Throwing,sport,0
+126,Best Friends,pet,0
+127,Village Court,mall,1
+128,Nutshoppe,spices,0
+129,South Wharf DFO,mall,1
+130,St Edmonds,cafe,0
+131,Veterinary Science Library,library,0
+132,Lune Croissants,cafe,0
+133,Anaconda,outdoor,0
+134,Watergardens Town Centre (Sec. G),mall,1
+135,Carnishe,car_repair,0
+136,Coopers Malthouse Theatre,theatre,1
+137,Dixons Recycled,music,0
+138,White Mojo,cafe,0
+139,Steak Away,restaurant,0
+140,Forty Winks,bed,0
+141,The Richmond Dentist,dentist,0
+142,Sunshine Baseball Club,sport,0
+143,Chadstone Shopping Centre (Bay 7),bus_stop,0
+144,Vegie Bar Take Away,fast_food,0
+145,Evans Road Medical Centre (Section G),clinic,1
+146,Coopers Malthouse Theatre (Section G),theatre,1
+147,Grandmart,cosmetics,0
+148,Yarraville Village Animal Hospital,veterinary,0
+149,Sunlight,travel_agency,0
+150,La Trobe Street/Russell Street,bus_stop,0
+151,Gotham City,clothes,0
+152,"Monash University, Clayton Campus",university,1
+153,The Richmond Chocolate Factory Outlet & Cafe,confectionery,0
+154,Ho Ho's Canteen,fast_food,0
+155,Deakin University,university,1
+156,Public Toilets,toilets,0
+157,Lilydale Hair Co.,hairdresser,0
+158,Evans Road Medical Centre,clinic,1
+159,St Matthias Anglican Church,place_of_worship,0
+160,Scopri,restaurant,0
+161,Pizza Hut,restaurant,0
+162,Melbourne Asian Seventh-day Adventist Church,place_of_worship,0
+163,Two Row Bar,bar,0
+164,Mortgage Choice,money_lender,0
+165,UGG,bureau_de_change,0
+166,Owen Dixon Chambers East - Block 2,office,1
+167,Armature Strength,leisure,0
+168,Proud Sprout,restaurant,0
+169,Ibis Hotel Melbourne,hotel,1
+170,Sunshine Clock Tower,attraction,0
+171,Altona Miniature Railway,attraction,0
+172,Phat Ink,tattoo,0
+173,The Great Southern Hotel,hotel,1
+174,Coles Express,convenience,0
+175,Podiacary,clinic,0
+176,Sushi in The Dock,fast_food,0
+177,Olinda Creek Hotel,bar,0
+178,NAB,bank,0
+179,Birdcage On Elgar,hairdresser,0
+180,Owen Dixon Chambers East,office,1
+181,South Melbourne Market Grocer,convenience,0
+182,Cotton On,clothes,0
+183,Nando's,restaurant,0
+184,Northland DSM,Video Game Stores,0
+185,La Parisienne Patés,cafe,0
+186,Union Kiosk,cafe,0
+187,Forest Hill Chase Shopping Centre (South),mall,1
+188,Miami Hotel Melbourne,hotel,1
+189,Harbour View Apartments (Sec. E),hotel,1
+190,Yolo,cafe,0
+191,Zuffenhaus Classics,car_repair,0
+192,BP,fuel,0
+193,Solar Heart Healing House,office,0
+194,Pro Futsal Mount Evelyn (Section A),leisure,1
+195,Kanzi,clothes,0
+196,Used Pty Ltd,antiques,0
+197,Lilydale Village,mall,1
+198,Colonial Warehouse,doors,0
+199,Purple Peanuts Japanese Cafe,cafe,0
+200,Airs & Graces,beauty,0
+201,LA Auto Body,car_repair,0
+202,Iris Family Medicine,clinic,0
+203,Carma Cellars,alcohol,0
+204,Hoppers Crossing Railway Station (Bay 4),bus_stop,0
+205,Platform One,nightclub,0
+206,Tandoori Corner,restaurant,0
+207,Ayam Penyet Ria,restaurant,0
+208,Harvey Norman,department_store,0
+209,Westpac,atm,0
+210,Hardware Express,hardware,0
+211,3071,cafe,0
+212,Richmond Library,library,0
+213,ABC Southbank Centre,studio,1
+214,Richmond Football Club Car Park,parking,0
+215,Dion Restaurant and Bar,restaurant,0
+216,Vicquote Roadworthy,car_repair,0
+217,Rooftop at QT,bar,0
+218,Imely's Creative Salon,beauty,0
+219,C.H. Robinson,office,0
+220,Cervio,restaurant,0
+221,Snooze,bed,0
+222,Westpac,bank,0
+223,Forest Hill Chase Shopping Centre,mall,1
+224,Pro Futsal Mount Evelyn,leisure,1
+225,Watergardens Town Centre,mall,1
