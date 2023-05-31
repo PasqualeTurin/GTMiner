@@ -103,3 +103,23 @@ python train_AOI_Classifier.py \
 * ``--max_len``: Max length of the textual sequence in input to the language model (Suggested values are 32 for bert and 16 for lstm).
 * ``--device``: Device, can be: ``cpu`` or ``cuda``.
 * ``--save_model``: If this flag is set, the best model on the validation set, will be saved (the path can be specified in config.py).
+
+
+#### If you wish to use our code or any of our datasets for your research, please cite our paper
+
+### Citation Information
+```
+@article{10.1145/3588947,
+author = {Balsebre, Pasquale and Yao, Dezhong and Cong, Gao and Huang, Weiming and Hai, Zhen},
+title = {Mining Geospatial Relationships from Text},
+year = {2023},
+issue_date = {May 2023},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+volume = {1},
+number = {1},
+url = {https://doi.org/10.1145/3588947},
+doi = {10.1145/3588947},
+journal = {Proc. ACM Manag. Data}
+}
+```
