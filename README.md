@@ -110,16 +110,19 @@ python train_AOI_Classifier.py \
 ### Citation Information
 ```
 @article{10.1145/3588947,
-author = {Balsebre, Pasquale and Yao, Dezhong and Cong, Gao and Huang, Weiming and Hai, Zhen},
-title = {Mining Geospatial Relationships from Text},
-year = {2023},
-issue_date = {May 2023},
-publisher = {Association for Computing Machinery},
-address = {New York, NY, USA},
-volume = {1},
-number = {1},
-url = {https://doi.org/10.1145/3588947},
-doi = {10.1145/3588947},
-journal = {Proc. ACM Manag. Data}
+  author = {Balsebre, Pasquale and Yao, Dezhong and Cong, Gao and Huang, Weiming and Hai, Zhen},
+  title = {Mining Geospatial Relationships from Text},
+  year = {2023},
+  issue_date = {May 2023},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  volume = {1},
+  number = {1},
+  url = {https://doi.org/10.1145/3588947},
+  doi = {10.1145/3588947},
+  journal = {Proc. ACM Manag. Data},
+  month = {may},
+  articleno = {93},
+  numpages = {26},
 }
 ```
